@@ -108,6 +108,7 @@ def get_stock_eps(ticker: str) -> pd.DataFrame:
             logger.warning("Failed to read cache for %s: %s", ticker, exc)
     
     try:
+        print("Cache miss, Fetching earnings data for %s", ticker)
         url = f"https://www.alphavantage.co/query"
         params = {
             "function": "EARNINGS",
@@ -136,7 +137,53 @@ def get_stock_eps(ticker: str) -> pd.DataFrame:
     except Exception as exc:
         logger.warning("Failed to fetch earnings for %s: %s", ticker, exc)
         return pd.DataFrame()
+    
+def get_stock_revenue(ticker: str) -> pd.DataFrame:
+    '''
+    Get the revenue of a stock.
+    '''
+    cache_dir = "cache"
+    os.makedirs(cache_dir, exist_ok=True)
+    cache_file = os.path.join(cache_dir, f"{ticker}_income_statement_cache.csv")
+    
+    # Check if the cache file exists
+    if os.path.exists(cache_file):
+        try:
+            return pd.read_csv(cache_file)
+        except Exception as exc:
+            logger.warning("Failed to read cache for %s: %s", ticker, exc)
+    
+    try:
+        url = f"https://www.alphavantage.co/query"
+        params = {
+            "function": "INCOME_STATEMENT",
+            "symbol": ticker,
+            "apikey": alphavantage_api_key
+        }
+        response = requests.get(url, params=params)
+        response.raise_for_status()  # Raise an error for bad responses
+        data = response.json()
+
+        # Extract the income statement data
+        annual_reports = data.get("annualReports", [])
+
+        # Create a DataFrame with date and totalRevenue
+        revenue_data = [
+            {"date": entry.get("fiscalDateEnding"), "totalRevenue": entry.get("totalRevenue")}
+            for entry in annual_reports
+        ]
+
+        df = pd.DataFrame(revenue_data)
+        
+        # Save the DataFrame to a cache file
+        df.to_csv(cache_file, index=False)
+        
+        return df
+    except Exception as exc:
+        logger.warning("Failed to fetch income statement for %s: %s", ticker, exc)
+        return pd.DataFrame()
 
 if __name__ == "__main__":
-    #print(get_stock_eps("AAPL"))
-    print(compound_return("AAPL", 3))
+    print(get_stock_eps("NVDA"))
+    #print(compound_return("AAPL", 3))
+    print(get_stock_revenue("NVDA"))
