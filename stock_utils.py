@@ -60,6 +60,41 @@ def get_pe_ratio(ticker: str, *, forward: bool = False, raise_on_missing: bool =
 
     return pe_ratio
 
+def compound_return(ticker: str, days: int = 30) -> pd.DataFrame:
+    '''
+    Calculate the compounded return of a stock over a specified number of days.
+
+    Parameters
+    ----------
+    ticker : str
+        The stock symbol, e.g. "AAPL".
+    days : int, default 30
+        The number of days over which to calculate the compounded return.
+
+    Returns
+    -------
+    pd.DataFrame
+        A DataFrame containing the compounded return over the specified period.
+    '''
+    try:
+        stock = yf.Ticker(ticker)
+        hist = stock.history(period=f"{days}d")
+        
+        if hist.empty:
+            raise ValueError(f"No historical data available for ticker '{ticker}' over the last {days} days.")
+        
+        # Calculate daily returns
+        hist['Daily Return'] = hist['Close'].pct_change()
+        
+        # Calculate compounded return
+        compounded_return = (1 + hist['Daily Return']).prod() - 1
+        
+        return pd.DataFrame({'Compounded Return': [compounded_return]})
+    
+    except Exception as exc:
+        logger.warning("Failed to calculate compounded return for %s: %s", ticker, exc)
+        return pd.DataFrame()
+
 def get_stock_eps(ticker: str) -> pd.DataFrame:
     cache_dir = "cache"
     os.makedirs(cache_dir, exist_ok=True)
@@ -103,4 +138,5 @@ def get_stock_eps(ticker: str) -> pd.DataFrame:
         return pd.DataFrame()
 
 if __name__ == "__main__":
-    print(get_stock_eps("AAPL"))
+    #print(get_stock_eps("AAPL"))
+    print(compound_return("AAPL", 3))
