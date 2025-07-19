@@ -9,8 +9,14 @@ from typing import Optional
 
 import yfinance as yf
 import pandas as pd
+import requests
+from dotenv import load_dotenv
+import os
 
 logger = logging.getLogger(__name__)
+
+load_dotenv()
+alphavantage_api_key = os.getenv('ALPHA_VANTAGE_API_KEY')
 
 
 def get_pe_ratio(ticker: str, *, forward: bool = False, raise_on_missing: bool = False) -> Optional[float]:
@@ -54,39 +60,47 @@ def get_pe_ratio(ticker: str, *, forward: bool = False, raise_on_missing: bool =
 
     return pe_ratio
 
-
-def get_historical_data(ticker: str, start: str, end: str) -> pd.DataFrame:
-    """
-    Fetch historical market data for a given stock ticker within a specified date range.
-
-    Parameters
-    ----------
-    ticker : str
-        The stock symbol, e.g. "AAPL".
-    start : str
-        The start date for the historical data in the format 'YYYY-MM-DD'.
-    end : str
-        The end date for the historical data in the format 'YYYY-MM-DD'.
-
-    Returns
-    -------
-    pd.DataFrame
-        A DataFrame containing the historical market data, including columns like
-        'Open', 'High', 'Low', 'Close', 'Volume', and 'Adj Close'.
-    """
-    if not ticker:
-        raise ValueError("`ticker` must be a non-empty string")
-    if not start or not end:
-        raise ValueError("`start` and `end` must be non-empty strings in 'YYYY-MM-DD' format")
-
+def get_stock_eps(ticker: str) -> pd.DataFrame:
+    cache_dir = "cache"
+    os.makedirs(cache_dir, exist_ok=True)
+    cache_file = os.path.join(cache_dir, f"{ticker}_eps_cache.csv")
+    
+    # Check if the cache file exists
+    if os.path.exists(cache_file):
+        try:
+            return pd.read_csv(cache_file)
+        except Exception as exc:
+            logger.warning("Failed to read cache for %s: %s", ticker, exc)
+    
     try:
-        stock = yf.Ticker(ticker)
-        hist_data = stock.history(start=start, end=end)
-    except Exception as exc:
-        logger.warning("Failed to fetch historical data for %s: %s", ticker, exc)
-        return pd.DataFrame()  # Return an empty DataFrame on failure
+        url = f"https://www.alphavantage.co/query"
+        params = {
+            "function": "EARNINGS",
+            "symbol": ticker,
+            "apikey": alphavantage_api_key
+        }
+        response = requests.get(url, params=params)
+        response.raise_for_status()  # Raise an error for bad responses
+        data = response.json()
 
-    return hist_data
+        # Extract the earnings data
+        earnings = data.get("quarterlyEarnings", [])
+
+        # Create a DataFrame with date and reportedEPS
+        eps_data = [
+            {"date": entry.get("fiscalDateEnding"), "reportedEPS": entry.get("reportedEPS")}
+            for entry in earnings
+        ]
+
+        df = pd.DataFrame(eps_data)
+        
+        # Save the DataFrame to a cache file
+        df.to_csv(cache_file, index=False)
+        
+        return df
+    except Exception as exc:
+        logger.warning("Failed to fetch earnings for %s: %s", ticker, exc)
+        return pd.DataFrame()
 
 if __name__ == "__main__":
-    print(get_pe_ratio("AAPL"))
+    print(get_stock_eps("AAPL"))
