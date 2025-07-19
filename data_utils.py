@@ -72,5 +72,24 @@ def p_e_ratio(ticker: str) -> pd.DataFrame:
     
     return df
 
+def get_yoy_return(ticker: str) -> pd.DataFrame:
+    '''
+    Calculate the year-over-year return of a stock.
+    '''
+    revenue = stock_utils.get_stock_revenue(ticker)
+    print(revenue)
+    
+    # Ensure totalRevenue is numeric
+    revenue['totalRevenue'] = pd.to_numeric(revenue['totalRevenue'], errors='coerce')
+
+    # Calculate year-over-year return using the formula (new - old) / old
+    revenue['yoy_return'] = revenue['totalRevenue'].pct_change(-1)
+    
+    # Drop the last row as it will have NaN for YoY return
+    revenue_yoy = revenue.dropna(subset=['yoy_return'])
+    
+    return revenue_yoy[['date', 'yoy_return']]
+
 if __name__ == "__main__":
     print(p_e_ratio("NVDA"))
+    print(get_yoy_return("NVDA"))
