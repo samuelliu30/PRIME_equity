@@ -138,6 +138,12 @@ def get_stock_eps(ticker: str) -> pd.DataFrame:
 
         df = pd.DataFrame(eps_data)
         
+        # Filter to only include dates after 2010
+        if not df.empty:
+            df['date'] = pd.to_datetime(df['date'])
+            df = df[df['date'] >= pd.to_datetime('2010-01-01')]
+            df = df.sort_values('date', ascending=False)
+        
         # Save the DataFrame to a cache file
         df.to_csv(cache_file, index=False)
         
@@ -182,6 +188,12 @@ def get_stock_revenue(ticker: str) -> pd.DataFrame:
         ]
 
         df = pd.DataFrame(revenue_data)
+        
+        # Filter to only include dates after 2010
+        if not df.empty:
+            df['date'] = pd.to_datetime(df['date'])
+            df = df[df['date'] >= pd.to_datetime('2010-01-01')]
+            df = df.sort_values('date', ascending=False)
         
         # Save the DataFrame to a cache file
         df.to_csv(cache_file, index=False)
