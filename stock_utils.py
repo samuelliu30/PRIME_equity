@@ -202,8 +202,44 @@ def get_stock_revenue(ticker: str) -> pd.DataFrame:
     except Exception as exc:
         logger.warning("Failed to fetch income statement for %s: %s", ticker, exc)
         return pd.DataFrame()
+    
+def get_nasdaq_100_index(date: datetime) -> pd.DataFrame:
+    '''
+    Get the NASDAQ 100 index for a given date.
+    '''
+
+    # Define the ticker symbol for NASDAQ 100 index
+    nasdaq_100_ticker = "^NDX"
+
+    # Fetch the data using yfinance
+    try:
+
+        # Convert string to datetime
+        target_date = pd.to_datetime(date)
+
+        # Download a small range around the target date to ensure we get a trading day
+        index_data = yf.download(nasdaq_100_ticker, start=(target_date - pd.Timedelta(days=3)).strftime("%Y-%m-%d"),
+                                 end=(target_date + pd.Timedelta(days=3)).strftime("%Y-%m-%d"))
+
+        # Find the closest previous trading day
+        if target_date.strftime('%Y-%m-%d') in index_data.index:
+            index_price = index_data.loc[[target_date.strftime('%Y-%m-%d')], ['Close']]
+        else:
+            # Get the previous valid trading day
+            previous_trading_day = index_data.index[index_data.index <= target_date][-1]
+            index_price = index_data.loc[[previous_trading_day], ['Close']]
+        
+        # Set the index to be the date and rename the column to 'Price'
+        index_price.index.name = 'Date'
+        index_price.columns = ['Price']
+        
+        return index_price
+    except Exception as exc:
+        logger.warning("Failed to fetch NASDAQ 100 index for %s: %s", date, exc)
+        return pd.DataFrame()
 
 if __name__ == "__main__":
-    print(get_stock_eps("NVDA"))
+    #print(get_stock_eps("NVDA"))
     #print(compound_return("AAPL", 3))
-    print(get_stock_revenue("NVDA"))
+    #print(get_stock_revenue("NVDA"))
+    print(get_nasdaq_100_index(datetime(2025, 4, 30)))

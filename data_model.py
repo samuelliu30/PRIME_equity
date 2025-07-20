@@ -74,19 +74,20 @@ def compose_stock_data() -> pd.DataFrame:
         ticker_dataframes[ticker] = merged_data
     return ticker_dataframes
 
+def format_quarter(date: datetime) -> str:
+    month = date.month
+    year = date.year
+    if month in [1, 2, 3]:
+        quarter = 1
+    elif month in [4, 5, 6]:
+        quarter = 2
+    elif month in [7, 8, 9]:
+        quarter = 3
+    else:
+        quarter = 4
+    return f"{year}_q{quarter}"
+
 def compose_stock_data_by_date() -> pd.DataFrame:
-    def format_quarter(date):
-        month = date.month
-        year = date.year
-        if month in [1, 2, 3]:
-            quarter = 1
-        elif month in [4, 5, 6]:
-            quarter = 2
-        elif month in [7, 8, 9]:
-            quarter = 3
-        else:
-            quarter = 4
-        return f"{year}_q{quarter}"
 
     date_dict = {}
 
@@ -104,6 +105,12 @@ def compose_stock_data_by_date() -> pd.DataFrame:
     with open('stock_data_by_date.json', 'w') as json_file:
         json.dump(date_dict, json_file, indent=4)
     return date_dict
+
+'''
+def compose_nasdaq_100_data(start_date: datetime = datetime(2025, 4, 30), end_date: datetime = datetime(2025, 4, 30)) -> pd.DataFrame:
+
+    return nasdaq_100_data
+'''
 
 def load_stock_data() -> dict:
     if not os.path.exists('stock_data_by_date.json'):
