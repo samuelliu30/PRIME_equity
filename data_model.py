@@ -3,6 +3,7 @@ import numpy as np
 import data_utils
 from datetime import datetime
 import json
+import os
 
 stock_list = ["NVDA", "AMD", "AVGO", "MRVL", "ADSK", "QCOM", "MU", "ASML"]
 
@@ -103,7 +104,11 @@ def compose_stock_data_by_date() -> pd.DataFrame:
     with open('stock_data_by_date.json', 'w') as json_file:
         json.dump(date_dict, json_file, indent=4)
     return date_dict
-    
 
-if __name__ == "__main__":
-    print(compose_stock_data_by_date())
+def load_stock_data() -> dict:
+    if not os.path.exists('stock_data_by_date.json'):
+        return compose_stock_data_by_date()
+    
+    with open('stock_data_by_date.json', 'r') as json_file:
+        return json.load(json_file)
+    
