@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import data_utils
 from datetime import datetime
+import json
 
 stock_list = ["NVDA", "AMD", "AVGO", "MRVL", "ADSK", "QCOM", "MU", "ASML"]
 
@@ -69,11 +70,40 @@ def compose_stock_data() -> pd.DataFrame:
     ticker_dataframes = {}
     for ticker in stock_list:
         merged_data = merge_indicator_data(ticker)
-        print(ticker)
-        print(merged_data)
         ticker_dataframes[ticker] = merged_data
     return ticker_dataframes
 
+def compose_stock_data_by_date() -> pd.DataFrame:
+    def format_quarter(date):
+        month = date.month
+        year = date.year
+        if month in [1, 2, 3]:
+            quarter = 1
+        elif month in [4, 5, 6]:
+            quarter = 2
+        elif month in [7, 8, 9]:
+            quarter = 3
+        else:
+            quarter = 4
+        return f"{year}_q{quarter}"
+
+    date_dict = {}
+
+    for ticker in stock_list:
+        merged_data = merge_indicator_data(ticker)
+        merged_data['date'] = merged_data['date'].apply(format_quarter)
+
+        for _, row in merged_data.iterrows():
+            date = row['date']
+            if date not in date_dict:
+                date_dict[date] = {}
+            date_dict[date][ticker] = {k: v for k, v in row.to_dict().items() if k not in ['ticker', 'date']}
+
+    # Save the date_dict to a JSON file
+    with open('stock_data_by_date.json', 'w') as json_file:
+        json.dump(date_dict, json_file, indent=4)
+    return date_dict
+    
 
 if __name__ == "__main__":
-    compose_stock_data()
+    print(compose_stock_data_by_date())

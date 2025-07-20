@@ -1,0 +1,3093 @@
+{
+    "2013_q1": {
+        "NVDA": {
+            "reportedEPS": 0.007,
+            "pe_ratio": 40.40776831763131,
+            "quarterly_return_six_month": -0.0962472649247146,
+            "quarterly_return_one_year": -0.2102240719261348,
+            "yoy_return": 0.07059378228233104
+        },
+        "MRVL": {
+            "reportedEPS": 0.19,
+            "pe_ratio": 42.2766133358604,
+            "quarterly_return_six_month": -0.172679596693562,
+            "quarterly_return_one_year": -0.4224435329725836,
+            "yoy_return": -0.06613833022893922
+        },
+        "ADSK": {
+            "reportedEPS": 0.53,
+            "pe_ratio": 73.3584925813495,
+            "quarterly_return_six_month": 0.1072041180409988,
+            "quarterly_return_one_year": 0.025688592791859,
+            "yoy_return": 0.04359992778479871
+        },
+        "QCOM": {
+            "reportedEPS": 1.17,
+            "pe_ratio": 40.7761956891443,
+            "quarterly_return_six_month": 0.0895302305179619,
+            "quarterly_return_one_year": 0.009385138369512,
+            "yoy_return": 0.2783980744801766
+        },
+        "MU": {
+            "reportedEPS": -0.28,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": 0.3172300633471903,
+            "quarterly_return_one_year": -0.0024386758752087,
+            "yoy_return": -0.0630405097860719
+        },
+        "ASML": {
+            "reportedEPS": 0.3,
+            "pe_ratio": 200.36719004313153,
+            "quarterly_return_six_month": 0.1594143502552656,
+            "quarterly_return_one_year": 0.2998742734177393,
+            "yoy_return": -0.16271001683762354
+        }
+    },
+    "2013_q2": {
+        "NVDA": {
+            "reportedEPS": 0.0045,
+            "pe_ratio": 71.03137175242107,
+            "quarterly_return_six_month": 0.1470229381906753,
+            "quarterly_return_one_year": 0.1208268687158529,
+            "yoy_return": 0.07059378228233104
+        },
+        "MRVL": {
+            "reportedEPS": 0.19,
+            "pe_ratio": 49.45554231342516,
+            "quarterly_return_six_month": 0.3656492937548814,
+            "quarterly_return_one_year": -0.2230293186312207,
+            "yoy_return": -0.06613833022893922
+        },
+        "ADSK": {
+            "reportedEPS": 0.42,
+            "pe_ratio": 93.76190730503627,
+            "quarterly_return_six_month": 0.1996859851437611,
+            "quarterly_return_one_year": 0.0200213566025126,
+            "yoy_return": 0.04359992778479871
+        },
+        "QCOM": {
+            "reportedEPS": 1.03,
+            "pe_ratio": 42.50509021351638,
+            "quarterly_return_six_month": -0.0033066138094796,
+            "quarterly_return_one_year": 0.1049742837281773,
+            "yoy_return": 0.2783980744801766
+        },
+        "MU": {
+            "reportedEPS": 0.04,
+            "pe_ratio": 285.1970434188843,
+            "quarterly_return_six_month": 1.005059285986325,
+            "quarterly_return_one_year": 1.2059371575047764,
+            "yoy_return": -0.0630405097860719
+        },
+        "ASML": {
+            "reportedEPS": 0.67,
+            "pe_ratio": 105.3849291445604,
+            "quarterly_return_six_month": 0.2403152627336895,
+            "quarterly_return_one_year": 0.4042430062060955,
+            "yoy_return": -0.16271001683762354
+        }
+    },
+    "2013_q3": {
+        "NVDA": {
+            "reportedEPS": 0.004,
+            "pe_ratio": 84.22409743070602,
+            "quarterly_return_six_month": 0.1885855200945307,
+            "quarterly_return_one_year": 0.0468283580704527,
+            "yoy_return": 0.07059378228233104
+        },
+        "MRVL": {
+            "reportedEPS": 0.23,
+            "pe_ratio": 49.550317681354024,
+            "quarterly_return_six_month": 0.381634106608741,
+            "quarterly_return_one_year": 0.1641789088772978,
+            "yoy_return": -0.06613833022893922
+        },
+        "ADSK": {
+            "reportedEPS": 0.45,
+            "pe_ratio": 78.64444308810764,
+            "quarterly_return_six_month": -0.059156357352745,
+            "quarterly_return_one_year": 0.0544826543432199,
+            "yoy_return": 0.04359992778479871
+        },
+        "QCOM": {
+            "reportedEPS": 1.05,
+            "pe_ratio": 46.18992396763392,
+            "quarterly_return_six_month": 0.0280890506735931,
+            "quarterly_return_one_year": 0.0954934098214517,
+            "yoy_return": 0.3004549971235815
+        },
+        "MU": {
+            "reportedEPS": 0.2,
+            "pe_ratio": 66.26925468444824,
+            "quarterly_return_six_month": 0.6154762310220909,
+            "quarterly_return_one_year": 1.2282430500430217,
+            "yoy_return": 0.10189458343453972
+        },
+        "ASML": {
+            "reportedEPS": 0.57,
+            "pe_ratio": 154.64225902891997,
+            "quarterly_return_six_month": 0.4869571577330749,
+            "quarterly_return_one_year": 0.6260111110773852,
+            "yoy_return": -0.16271001683762354
+        }
+    },
+    "2013_q4": {
+        "NVDA": {
+            "reportedEPS": 0.005,
+            "pe_ratio": 71.23627066612244,
+            "quarterly_return_six_month": 0.1084669935060396,
+            "quarterly_return_one_year": 0.1957420043757425,
+            "yoy_return": 0.07059378228233104
+        },
+        "AMD": {
+            "reportedEPS": 0.06,
+            "pe_ratio": 64.49999809265137,
+            "quarterly_return_six_month": -0.0517241480558257,
+            "quarterly_return_one_year": 0.4864864989261483,
+            "yoy_return": -0.02268535595721133
+        },
+        "AVGO": {
+            "reportedEPS": 0.089,
+            "pe_ratio": 37.919550799251944,
+            "quarterly_return_six_month": 0.4234320347293978,
+            "quarterly_return_one_year": 0.3358307528449435,
+            "yoy_return": 0.06598984771573613
+        },
+        "MRVL": {
+            "reportedEPS": 0.32,
+            "pe_ratio": 33.08330774307251,
+            "quarterly_return_six_month": 0.1375723472242578,
+            "quarterly_return_one_year": 0.5157182269344132,
+            "yoy_return": -0.06613833022893922
+        },
+        "ADSK": {
+            "reportedEPS": 0.41,
+            "pe_ratio": 97.31707689238758,
+            "quarterly_return_six_month": 0.0131579061675215,
+            "quarterly_return_one_year": 0.2520325668749976,
+            "yoy_return": 0.04359992778479871
+        },
+        "QCOM": {
+            "reportedEPS": 1.01,
+            "pe_ratio": 53.21528746349977,
+            "quarterly_return_six_month": 0.2200159172756082,
+            "quarterly_return_one_year": 0.1810866529115367,
+            "yoy_return": 0.3004549971235815
+        },
+        "MU": {
+            "reportedEPS": 0.72,
+            "pe_ratio": 28.622802098592125,
+            "quarterly_return_six_month": 0.7988066332485368,
+            "quarterly_return_one_year": 2.493377259422346,
+            "yoy_return": 0.10189458343453972
+        },
+        "ASML": {
+            "reportedEPS": 1.47,
+            "pe_ratio": 56.89108193326159,
+            "quarterly_return_six_month": 0.1726906717134038,
+            "quarterly_return_one_year": 0.4577412948539667,
+            "yoy_return": 0.10858396446834084
+        }
+    },
+    "2014_q1": {
+        "NVDA": {
+            "reportedEPS": 0.006,
+            "pe_ratio": 61.68897946675618,
+            "quarterly_return_six_month": 0.0711279786460932,
+            "quarterly_return_one_year": 0.3210083362316203,
+            "yoy_return": -0.03508257520339786
+        },
+        "AMD": {
+            "reportedEPS": 0.02,
+            "pe_ratio": 200.5000114440918,
+            "quarterly_return_six_month": 0.0051814041162288,
+            "quarterly_return_one_year": 0.6652361551452148,
+            "yoy_return": -0.02268535595721133
+        },
+        "AVGO": {
+            "reportedEPS": 0.084,
+            "pe_ratio": 48.54826700119745,
+            "quarterly_return_six_month": 0.5028073181426083,
+            "quarterly_return_one_year": 0.5991479477948656,
+            "yoy_return": 0.06598984771573613
+        },
+        "MRVL": {
+            "reportedEPS": 0.29,
+            "pe_ratio": 45.623167629899655,
+            "quarterly_return_six_month": 0.1660193020517801,
+            "quarterly_return_one_year": 0.6528092108221708,
+            "yoy_return": 0.0744075515285787
+        },
+        "ADSK": {
+            "reportedEPS": 0.4,
+            "pe_ratio": 128.125,
+            "quarterly_return_six_month": 0.4611458567852664,
+            "quarterly_return_one_year": 0.3371399452378596,
+            "yoy_return": -0.016564311045757285
+        },
+        "QCOM": {
+            "reportedEPS": 1.31,
+            "pe_ratio": 43.77945761644203,
+            "quarterly_return_six_month": 0.1858136203956333,
+            "quarterly_return_one_year": 0.2292772019067126,
+            "yoy_return": 0.3004549971235815
+        },
+        "MU": {
+            "reportedEPS": 0.85,
+            "pe_ratio": 27.7958028456744,
+            "quarterly_return_six_month": 0.7266239456760504,
+            "quarterly_return_one_year": 1.8797619202606783,
+            "yoy_return": 0.10189458343453972
+        },
+        "ASML": {
+            "reportedEPS": 0.76,
+            "pe_ratio": 109.64004115054482,
+            "quarterly_return_six_month": -0.0899810249894124,
+            "quarterly_return_one_year": 0.4029223397000503,
+            "yoy_return": 0.10858396446834084
+        }
+    },
+    "2014_q2": {
+        "NVDA": {
+            "reportedEPS": 0.006,
+            "pe_ratio": 72.90062308311462,
+            "quarterly_return_six_month": 0.2426640786434197,
+            "quarterly_return_one_year": 0.3787140827032162,
+            "yoy_return": -0.03508257520339786
+        },
+        "AMD": {
+            "reportedEPS": 0.02,
+            "pe_ratio": 209.50000286102295,
+            "quarterly_return_six_month": 0.0620155697809921,
+            "quarterly_return_one_year": 0.0098280000407724,
+            "yoy_return": -0.02268535595721133
+        },
+        "AVGO": {
+            "reportedEPS": 0.085,
+            "pe_ratio": 55.995144563562725,
+            "quarterly_return_six_month": 0.3530142451100504,
+            "quarterly_return_one_year": 0.8961109831772143,
+            "yoy_return": 0.06598984771573613
+        },
+        "MRVL": {
+            "reportedEPS": 0.27,
+            "pe_ratio": 52.25619210137261,
+            "quarterly_return_six_month": 0.3335715719315397,
+            "quarterly_return_one_year": 0.4969078213146309,
+            "yoy_return": 0.0744075515285787
+        },
+        "ADSK": {
+            "reportedEPS": 0.32,
+            "pe_ratio": 150.06250143051147,
+            "quarterly_return_six_month": 0.1922305231986167,
+            "quarterly_return_one_year": 0.201262664843578,
+            "yoy_return": -0.016564311045757285
+        },
+        "QCOM": {
+            "reportedEPS": 1.44,
+            "pe_ratio": 40.208776791890465,
+            "quarterly_return_six_month": 0.0744159686917351,
+            "quarterly_return_one_year": 0.3220515425274917,
+            "yoy_return": 0.3004549971235815
+        },
+        "MU": {
+            "reportedEPS": 0.79,
+            "pe_ratio": 35.346733769284015,
+            "quarterly_return_six_month": 0.3441467291124263,
+            "quarterly_return_one_year": 1.4415024467265931,
+            "yoy_return": 0.10189458343453972
+        },
+        "ASML": {
+            "reportedEPS": 1.23,
+            "pe_ratio": 68.35787393213288,
+            "quarterly_return_six_month": -0.0045322115440763,
+            "quarterly_return_one_year": 0.1361180887387678,
+            "yoy_return": 0.10858396446834084
+        }
+    },
+    "2014_q3": {
+        "NVDA": {
+            "reportedEPS": 0.006,
+            "pe_ratio": 69.39019759496053,
+            "quarterly_return_six_month": 0.1621198599121138,
+            "quarterly_return_one_year": 0.243195354496883,
+            "yoy_return": -0.03508257520339786
+        },
+        "AMD": {
+            "reportedEPS": 0.03,
+            "pe_ratio": 113.66666952768962,
+            "quarterly_return_six_month": -0.1256157629682379,
+            "quarterly_return_one_year": -0.0920716433789856,
+            "yoy_return": -0.02268535595721133
+        },
+        "AVGO": {
+            "reportedEPS": 0.126,
+            "pe_ratio": 41.441921203855486,
+            "quarterly_return_six_month": 0.3012890564435144,
+            "quarterly_return_one_year": 0.9410210345653588,
+            "yoy_return": 0.06598984771573613
+        },
+        "MRVL": {
+            "reportedEPS": 0.34,
+            "pe_ratio": 35.04569670733283,
+            "quarterly_return_six_month": -0.0805006495876721,
+            "quarterly_return_one_year": 0.0650205759942594,
+            "yoy_return": 0.0744075515285787
+        },
+        "ADSK": {
+            "reportedEPS": 0.35,
+            "pe_ratio": 152.42856706891743,
+            "quarterly_return_six_month": 0.0850731826410069,
+            "quarterly_return_one_year": 0.5771413289146623,
+            "yoy_return": -0.016564311045757285
+        },
+        "QCOM": {
+            "reportedEPS": 1.26,
+            "pe_ratio": 43.62254672580295,
+            "quarterly_return_six_month": -0.056292226222165,
+            "quarterly_return_one_year": 0.1223871118510158,
+            "yoy_return": 0.06518941526582478
+        },
+        "MU": {
+            "reportedEPS": 0.82,
+            "pe_ratio": 38.8298709218095,
+            "quarterly_return_six_month": 0.3316991549237367,
+            "quarterly_return_one_year": 1.2101693335474644,
+            "yoy_return": 0.8029317755979279
+        },
+        "ASML": {
+            "reportedEPS": 0.74,
+            "pe_ratio": 120.38293786951012,
+            "quarterly_return_six_month": 0.0803450775686278,
+            "quarterly_return_one_year": -0.0025855037880008,
+            "yoy_return": 0.10858396446834084
+        }
+    },
+    "2014_q4": {
+        "NVDA": {
+            "reportedEPS": 0.008,
+            "pe_ratio": 58.36639553308487,
+            "quarterly_return_six_month": 0.0122991950068573,
+            "quarterly_return_one_year": 0.2852154399864797,
+            "yoy_return": -0.03508257520339786
+        },
+        "AMD": {
+            "reportedEPS": -0.09,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": -0.3797169206574408,
+            "quarterly_return_one_year": -0.3631961158439464,
+            "yoy_return": 0.03906397433478004
+        },
+        "AVGO": {
+            "reportedEPS": 0.199,
+            "pe_ratio": 32.73902586357078,
+            "quarterly_return_six_month": 0.2923064858465807,
+            "quarterly_return_one_year": 0.8600524983234878,
+            "yoy_return": 0.694047619047619
+        },
+        "MRVL": {
+            "reportedEPS": 0.29,
+            "pe_ratio": 41.57397171546673,
+            "quarterly_return_six_month": -0.1950749610105175,
+            "quarterly_return_one_year": 0.0752351562735573,
+            "yoy_return": 0.0744075515285787
+        },
+        "ADSK": {
+            "reportedEPS": 0.25,
+            "pe_ratio": 230.16000366210935,
+            "quarterly_return_six_month": 0.2072811106741441,
+            "quarterly_return_one_year": 0.3724880377753614,
+            "yoy_return": -0.016564311045757285
+        },
+        "QCOM": {
+            "reportedEPS": 1.34,
+            "pe_ratio": 41.01519513486036,
+            "quarterly_return_six_month": -0.0631441127035836,
+            "quarterly_return_one_year": 0.0540631306882013,
+            "yoy_return": 0.06518941526582478
+        },
+        "MU": {
+            "reportedEPS": 0.97,
+            "pe_ratio": 36.1983977642256,
+            "quarterly_return_six_month": 0.2543617411259995,
+            "quarterly_return_one_year": 0.6521139011350536,
+            "yoy_return": 0.8029317755979279
+        },
+        "ASML": {
+            "reportedEPS": 0.87,
+            "pe_ratio": 111.73059748507094,
+            "quarterly_return_six_month": 0.1307343869745787,
+            "quarterly_return_one_year": 0.2122479124783651,
+            "yoy_return": 0.11647531535694822
+        }
+    },
+    "2015_q1": {
+        "NVDA": {
+            "reportedEPS": 0.009,
+            "pe_ratio": 51.19422409269545,
+            "quarterly_return_six_month": 0.0972545741483437,
+            "quarterly_return_one_year": 0.2544022551126175,
+            "yoy_return": 0.13365617433414045
+        },
+        "AMD": {
+            "reportedEPS": -0.09,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": -0.1940298135680537,
+            "quarterly_return_one_year": -0.3266833183107837,
+            "yoy_return": 0.03906397433478004
+        },
+        "AVGO": {
+            "reportedEPS": 0.209,
+            "pe_ratio": 37.31717561420641,
+            "quarterly_return_six_month": 0.4525992362890327,
+            "quarterly_return_one_year": 0.9348121430035744,
+            "yoy_return": 0.694047619047619
+        },
+        "MRVL": {
+            "reportedEPS": 0.25,
+            "pe_ratio": 55.80152893066406,
+            "quarterly_return_six_month": 0.1734112921073993,
+            "quarterly_return_one_year": 0.0909279048779836,
+            "yoy_return": 0.08887410410057583
+        },
+        "ADSK": {
+            "reportedEPS": 0.25,
+            "pe_ratio": 216.0399932861328,
+            "quarterly_return_six_month": -0.0025854699981643,
+            "quarterly_return_one_year": 0.0776137165313008,
+            "yoy_return": 0.10479792427107615
+        },
+        "QCOM": {
+            "reportedEPS": 1.4,
+            "pe_ratio": 36.83528355189733,
+            "quarterly_return_six_month": -0.0567643587152846,
+            "quarterly_return_one_year": -0.1030238855134754,
+            "yoy_return": 0.06518941526582478
+        },
+        "MU": {
+            "reportedEPS": 0.81,
+            "pe_ratio": 36.98204888237847,
+            "quarterly_return_six_month": -0.0266581074479025,
+            "quarterly_return_one_year": 0.221425754429426,
+            "yoy_return": 0.8029317755979279
+        },
+        "ASML": {
+            "reportedEPS": 1.17,
+            "pe_ratio": 77.84239940154248,
+            "quarterly_return_six_month": 0.0647392661290422,
+            "quarterly_return_one_year": 0.1468092035291626,
+            "yoy_return": 0.11647531535694822
+        }
+    },
+    "2015_q2": {
+        "NVDA": {
+            "reportedEPS": 0.006,
+            "pe_ratio": 89.13186192512512,
+            "quarterly_return_six_month": 0.1422367546805165,
+            "quarterly_return_one_year": 0.2088720735910221,
+            "yoy_return": 0.13365617433414045
+        },
+        "AMD": {
+            "reportedEPS": -0.17,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": -0.1235955628071322,
+            "quarterly_return_one_year": -0.4507042750127932,
+            "yoy_return": 0.03906397433478004
+        },
+        "AVGO": {
+            "reportedEPS": 0.213,
+            "pe_ratio": 41.72198425436244,
+            "quarterly_return_six_month": 0.3657868236307742,
+            "quarterly_return_one_year": 0.8477068297062778,
+            "yoy_return": 0.694047619047619
+        },
+        "MRVL": {
+            "reportedEPS": 0.13,
+            "pe_ratio": 97.41180860079253,
+            "quarterly_return_six_month": 0.0541016448914253,
+            "quarterly_return_one_year": -0.102088317915983,
+            "yoy_return": 0.08887410410057583
+        },
+        "ADSK": {
+            "reportedEPS": 0.3,
+            "pe_ratio": 189.43333943684897,
+            "quarterly_return_six_month": 0.0347584283659661,
+            "quarterly_return_one_year": 0.2529461351425517,
+            "yoy_return": 0.10479792427107615
+        },
+        "QCOM": {
+            "reportedEPS": 0.99,
+            "pe_ratio": 47.37590443004262,
+            "quarterly_return_six_month": -0.1467543134759742,
+            "quarterly_return_one_year": -0.2063182930189698,
+            "yoy_return": 0.06518941526582478
+        },
+        "MU": {
+            "reportedEPS": 0.54,
+            "pe_ratio": 50.51721643518518,
+            "quarterly_return_six_month": -0.2017719489708517,
+            "quarterly_return_one_year": -0.035899191648698,
+            "yoy_return": 0.8029317755979279
+        },
+        "ASML": {
+            "reportedEPS": 0.95,
+            "pe_ratio": 99.5535519248561,
+            "quarterly_return_six_month": -0.0230359038742591,
+            "quarterly_return_one_year": 0.0959849732009587,
+            "yoy_return": 0.11647531535694822
+        }
+    },
+    "2015_q3": {
+        "NVDA": {
+            "reportedEPS": 0.004,
+            "pe_ratio": 120.70346623659134,
+            "quarterly_return_six_month": 0.029057950250048,
+            "quarterly_return_one_year": 0.1538382703673761,
+            "yoy_return": 0.13365617433414045
+        },
+        "AMD": {
+            "reportedEPS": -0.17,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": -0.3791821852932427,
+            "quarterly_return_one_year": -0.5029761877307949,
+            "yoy_return": 0.03906397433478004
+        },
+        "AVGO": {
+            "reportedEPS": 0.224,
+            "pe_ratio": 42.59686810629708,
+            "quarterly_return_six_month": 0.2535497089448091,
+            "quarterly_return_one_year": 0.8127631767551327,
+            "yoy_return": 0.694047619047619
+        },
+        "MRVL": {
+            "reportedEPS": 0.12,
+            "pe_ratio": 94.11004384358723,
+            "quarterly_return_six_month": -0.1719966152886031,
+            "quarterly_return_one_year": -0.034056440563065,
+            "yoy_return": 0.08887410410057583
+        },
+        "ADSK": {
+            "reportedEPS": 0.19,
+            "pe_ratio": 266.21053595291943,
+            "quarterly_return_six_month": -0.0650406601484591,
+            "quarterly_return_one_year": -0.065558687935793,
+            "yoy_return": 0.10479792427107615
+        },
+        "QCOM": {
+            "reportedEPS": 0.91,
+            "pe_ratio": 44.58918728671231,
+            "quarterly_return_six_month": -0.2167356877108546,
+            "quarterly_return_one_year": -0.2791530244701149,
+            "yoy_return": -0.04553177030241251
+        },
+        "MU": {
+            "reportedEPS": 0.37,
+            "pe_ratio": 43.31806801460885,
+            "quarterly_return_six_month": -0.4619015698679221,
+            "quarterly_return_one_year": -0.5031132746433973,
+            "yoy_return": -0.010147939845946974
+        },
+        "ASML": {
+            "reportedEPS": 0.83,
+            "pe_ratio": 96.27430927322573,
+            "quarterly_return_six_month": -0.147800208633027,
+            "quarterly_return_one_year": -0.1234368244947855,
+            "yoy_return": 0.11647531535694822
+        }
+    },
+    "2015_q4": {
+        "NVDA": {
+            "reportedEPS": 0.011,
+            "pe_ratio": 62.679724259810015,
+            "quarterly_return_six_month": 0.2658663322102945,
+            "quarterly_return_one_year": 0.4333346178718813,
+            "yoy_return": 0.13365617433414045
+        },
+        "AMD": {
+            "reportedEPS": -0.1,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": 0.2064777265408435,
+            "quarterly_return_one_year": 0.1203007229012409,
+            "yoy_return": -0.27515437704322554
+        },
+        "AVGO": {
+            "reportedEPS": 0.251,
+            "pe_ratio": 37.52141169817799,
+            "quarterly_return_six_month": 0.0223259544629685,
+            "quarterly_return_one_year": 0.4606257787254291,
+            "yoy_return": 0.5985008198641368
+        },
+        "MRVL": {
+            "reportedEPS": 0.05,
+            "pe_ratio": 150.04916191101074,
+            "quarterly_return_six_month": -0.4142438601830027,
+            "quarterly_return_one_year": -0.3804884527340011,
+            "yoy_return": 0.08887410410057583
+        },
+        "ADSK": {
+            "reportedEPS": 0.14,
+            "pe_ratio": 394.21427590506414,
+            "quarterly_return_six_month": -0.0444944558432595,
+            "quarterly_return_one_year": -0.0523695563849114,
+            "yoy_return": 0.10479792427107615
+        },
+        "QCOM": {
+            "reportedEPS": 0.97,
+            "pe_ratio": 39.30358493450991,
+            "quarterly_return_six_month": -0.1865539203788799,
+            "quarterly_return_one_year": -0.2967153731134252,
+            "yoy_return": -0.04553177030241251
+        },
+        "MU": {
+            "reportedEPS": 0.24,
+            "pe_ratio": 64.82861439387004,
+            "quarterly_return_six_month": -0.4400864395800632,
+            "quarterly_return_one_year": -0.5686166568654446,
+            "yoy_return": -0.010147939845946974
+        },
+        "ASML": {
+            "reportedEPS": 0.74,
+            "pe_ratio": 108.95295014252534,
+            "quarterly_return_six_month": -0.103807039157826,
+            "quarterly_return_one_year": -0.1133376409397003,
+            "yoy_return": 0.07361724863765828
+        }
+    },
+    "2016_q1": {
+        "NVDA": {
+            "reportedEPS": 0.009,
+            "pe_ratio": 79.39318815867107,
+            "quarterly_return_six_month": 0.4551464924694344,
+            "quarterly_return_one_year": 0.4769746125011986,
+            "yoy_return": 0.07005553182400681
+        },
+        "AMD": {
+            "reportedEPS": -0.12,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": 0.5628414360797522,
+            "quarterly_return_one_year": 0.0592592016986719,
+            "yoy_return": -0.27515437704322554
+        },
+        "AVGO": {
+            "reportedEPS": 0.241,
+            "pe_ratio": 42.566877183083186,
+            "quarterly_return_six_month": 0.0694948798782719,
+            "quarterly_return_one_year": 0.2912294398593369,
+            "yoy_return": 0.5985008198641368
+        },
+        "MRVL": {
+            "reportedEPS": 0.11,
+            "pe_ratio": 74.06085621226917,
+            "quarterly_return_six_month": -0.2809323037590847,
+            "quarterly_return_one_year": -0.4391940636611959,
+            "yoy_return": -0.264673534642779
+        },
+        "ADSK": {
+            "reportedEPS": 0.21,
+            "pe_ratio": 222.95237949916296,
+            "quarterly_return_six_month": -0.1215759781424277,
+            "quarterly_return_one_year": -0.1704464770722423,
+            "yoy_return": -0.003224265583950281
+        },
+        "QCOM": {
+            "reportedEPS": 1.04,
+            "pe_ratio": 37.85343170166016,
+            "quarterly_return_six_month": -0.0561695112790967,
+            "quarterly_return_one_year": -0.2211010497272076,
+            "yoy_return": -0.04553177030241251
+        },
+        "MU": {
+            "reportedEPS": -0.05,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": -0.3236408450143525,
+            "quarterly_return_one_year": -0.6345628567461138,
+            "yoy_return": -0.010147939845946974
+        },
+        "ASML": {
+            "reportedEPS": 0.51,
+            "pe_ratio": 178.78239949544272,
+            "quarterly_return_six_month": 0.1441014771996227,
+            "quarterly_return_one_year": 0.0167653442869151,
+            "yoy_return": 0.07361724863765828
+        }
+    },
+    "2016_q2": {
+        "NVDA": {
+            "reportedEPS": 0.008,
+            "pe_ratio": 108.7404116988182,
+            "quarterly_return_six_month": 0.2472072006479522,
+            "quarterly_return_one_year": 0.6392120851763137,
+            "yoy_return": 0.07005553182400681
+        },
+        "AMD": {
+            "reportedEPS": -0.05,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": 0.85198561363348,
+            "quarterly_return_one_year": 1.0769230991982497,
+            "yoy_return": -0.27515437704322554
+        },
+        "AVGO": {
+            "reportedEPS": 0.253,
+            "pe_ratio": 44.34540337724648,
+            "quarterly_return_six_month": 0.1848397245509017,
+            "quarterly_return_one_year": 0.2634531559587167,
+            "yoy_return": 0.5985008198641368
+        },
+        "MRVL": {
+            "reportedEPS": 0.01,
+            "pe_ratio": 924.0775108337402,
+            "quarterly_return_six_month": 0.2038399014828813,
+            "quarterly_return_one_year": -0.2645099925074509,
+            "yoy_return": -0.264673534642779
+        },
+        "ADSK": {
+            "reportedEPS": -0.1,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": 0.0515029062508465,
+            "quarterly_return_one_year": 0.0542826564195593,
+            "yoy_return": -0.003224265583950281
+        },
+        "QCOM": {
+            "reportedEPS": 1.16,
+            "pe_ratio": 35.891440819049706,
+            "quarterly_return_six_month": 0.088817456847448,
+            "quarterly_return_one_year": -0.1194011888760268,
+            "yoy_return": -0.04553177030241251
+        },
+        "MU": {
+            "reportedEPS": -0.08,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": -0.2218709692471272,
+            "quarterly_return_one_year": -0.5370439501854756,
+            "yoy_return": -0.010147939845946974
+        },
+        "ASML": {
+            "reportedEPS": 0.94,
+            "pe_ratio": 96.99839328197724,
+            "quarterly_return_six_month": 0.1140041652281587,
+            "quarterly_return_one_year": -0.0457951672598331,
+            "yoy_return": 0.07361724863765828
+        }
+    },
+    "2016_q3": {
+        "NVDA": {
+            "reportedEPS": 0.01,
+            "pe_ratio": 140.16777276992798,
+            "quarterly_return_six_month": 0.9609848548969216,
+            "quarterly_return_one_year": 1.8142708679389097,
+            "yoy_return": 0.07005553182400681
+        },
+        "AMD": {
+            "reportedEPS": 0.03,
+            "pe_ratio": 230.3333282470703,
+            "quarterly_return_six_month": 1.3568905498623387,
+            "quarterly_return_one_year": 2.7055556961047804,
+            "yoy_return": -0.27515437704322554
+        },
+        "AVGO": {
+            "reportedEPS": 0.289,
+            "pe_ratio": 43.28049260439757,
+            "quarterly_return_six_month": 0.18411579366185,
+            "quarterly_return_one_year": 0.3149821811978428,
+            "yoy_return": 0.5985008198641368
+        },
+        "MRVL": {
+            "reportedEPS": 0.18,
+            "pe_ratio": 60.79815758599175,
+            "quarterly_return_six_month": 0.3312923755801575,
+            "quarterly_return_one_year": -0.0625992467478675,
+            "yoy_return": -0.264673534642779
+        },
+        "ADSK": {
+            "reportedEPS": 0.05,
+            "pe_ratio": 1189.000015258789,
+            "quarterly_return_six_month": 0.2476390106861157,
+            "quarterly_return_one_year": 0.0986878597736764,
+            "yoy_return": -0.003224265583950281
+        },
+        "QCOM": {
+            "reportedEPS": 1.28,
+            "pe_ratio": 41.94485247135162,
+            "quarterly_return_six_month": 0.3558838288398005,
+            "quarterly_return_one_year": 0.2449666340751064,
+            "yoy_return": -0.06831217119575961
+        },
+        "MU": {
+            "reportedEPS": -0.05,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": 0.4198475356050624,
+            "quarterly_return_one_year": -0.0450657233298189,
+            "yoy_return": -0.23425148221343872
+        },
+        "ASML": {
+            "reportedEPS": 1.04,
+            "pe_ratio": 96.83556923499474,
+            "quarterly_return_six_month": 0.0825802454360118,
+            "quarterly_return_one_year": 0.2308154142005414,
+            "yoy_return": 0.07361724863765828
+        }
+    },
+    "2016_q4": {
+        "NVDA": {
+            "reportedEPS": 0.021,
+            "pe_ratio": 83.33517256237211,
+            "quarterly_return_six_month": 0.9925100558991108,
+            "quarterly_return_one_year": 1.576756559072627,
+            "yoy_return": 0.07005553182400681
+        },
+        "AMD": {
+            "reportedEPS": -0.01,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": 1.286290335760654,
+            "quarterly_return_one_year": 3.1236364191228807,
+            "yoy_return": 0.07040841894262084
+        },
+        "AVGO": {
+            "reportedEPS": 0.347,
+            "pe_ratio": 38.007612530711064,
+            "quarterly_return_six_month": 0.189920728838576,
+            "quarterly_return_one_year": 0.416549923383037,
+            "yoy_return": 0.94021101992966
+        },
+        "MRVL": {
+            "reportedEPS": 0.2,
+            "pe_ratio": 60.96030235290527,
+            "quarterly_return_six_month": 0.3718251878084206,
+            "quarterly_return_one_year": 0.5417866147450976,
+            "yoy_return": -0.264673534642779
+        },
+        "ADSK": {
+            "reportedEPS": -0.18,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": 0.1909181376969142,
+            "quarterly_return_one_year": 0.1318317642244382,
+            "yoy_return": -0.003224265583950281
+        },
+        "QCOM": {
+            "reportedEPS": 1.19,
+            "pe_ratio": 43.27950036826254,
+            "quarterly_return_six_month": 0.2758512210412469,
+            "quarterly_return_one_year": 0.3742744548773349,
+            "yoy_return": -0.06831217119575961
+        },
+        "MU": {
+            "reportedEPS": 0.32,
+            "pe_ratio": 59.60935950279236,
+            "quarterly_return_six_month": 0.4813118950331427,
+            "quarterly_return_one_year": 0.3077438272006758,
+            "yoy_return": -0.23425148221343872
+        },
+        "ASML": {
+            "reportedEPS": 1.35,
+            "pe_ratio": 76.38288709852431,
+            "quarterly_return_six_month": 0.1768409152195831,
+            "quarterly_return_one_year": 0.3137453592529928,
+            "yoy_return": 0.09347265960492424
+        }
+    },
+    "2017_q1": {
+        "NVDA": {
+            "reportedEPS": 0.025,
+            "pe_ratio": 107.56336212158205,
+            "quarterly_return_six_month": 0.9645450353845284,
+            "quarterly_return_one_year": 3.20270983459724,
+            "yoy_return": 0.3792415169660679
+        },
+        "AMD": {
+            "reportedEPS": -0.04,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": 1.0215828167368637,
+            "quarterly_return_one_year": 3.96466451219389,
+            "yoy_return": 0.07040841894262084
+        },
+        "AVGO": {
+            "reportedEPS": 0.363,
+            "pe_ratio": 42.81031133057986,
+            "quarterly_return_six_month": 0.2491511402027646,
+            "quarterly_return_one_year": 0.6074001797118171,
+            "yoy_return": 0.94021101992966
+        },
+        "MRVL": {
+            "reportedEPS": 0.22,
+            "pe_ratio": 63.51682489568537,
+            "quarterly_return_six_month": 0.3312957211140155,
+            "quarterly_return_one_year": 0.6987596962146578,
+            "yoy_return": -0.14973578670407672
+        },
+        "ADSK": {
+            "reportedEPS": -0.28,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": 0.4005177324175875,
+            "quarterly_return_one_year": 0.7578515677026614,
+            "yoy_return": -0.18893015454654372
+        },
+        "QCOM": {
+            "reportedEPS": 1.34,
+            "pe_ratio": 34.11739975658815,
+            "quarterly_return_six_month": -0.1329706224490101,
+            "quarterly_return_one_year": 0.1696658243561455,
+            "yoy_return": -0.06831217119575961
+        },
+        "MU": {
+            "reportedEPS": 0.9,
+            "pe_ratio": 25.43766869439019,
+            "quarterly_return_six_month": 0.4408733068627415,
+            "quarterly_return_one_year": 1.0,
+            "yoy_return": -0.23425148221343872
+        },
+        "ASML": {
+            "reportedEPS": 1.12,
+            "pe_ratio": 108.97251537867952,
+            "quarterly_return_six_month": 0.2175711009821046,
+            "quarterly_return_one_year": 0.3205424116922972,
+            "yoy_return": 0.09347265960492424
+        }
+    },
+    "2017_q2": {
+        "NVDA": {
+            "reportedEPS": 0.02,
+            "pe_ratio": 128.60666513442993,
+            "quarterly_return_six_month": 0.4697576474301863,
+            "quarterly_return_one_year": 2.022232655869194,
+            "yoy_return": 0.3792415169660679
+        },
+        "AMD": {
+            "reportedEPS": 0.02,
+            "pe_ratio": 623.9999771118164,
+            "quarterly_return_six_month": 0.1023622086662725,
+            "quarterly_return_one_year": 1.540322638016963,
+            "yoy_return": 0.07040841894262084
+        },
+        "AVGO": {
+            "reportedEPS": 0.369,
+            "pe_ratio": 46.8241270318587,
+            "quarterly_return_six_month": 0.3100743921000723,
+            "quarterly_return_one_year": 0.5799128377067964,
+            "yoy_return": 0.94021101992966
+        },
+        "MRVL": {
+            "reportedEPS": 0.24,
+            "pe_ratio": 59.03801520665487,
+            "quarterly_return_six_month": 0.16216039690561,
+            "quarterly_return_one_year": 0.6141976660010648,
+            "yoy_return": -0.14973578670407672
+        },
+        "ADSK": {
+            "reportedEPS": -0.16,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": 0.2461261928054019,
+            "quarterly_return_one_year": 0.5336284760235592,
+            "yoy_return": -0.18893015454654372
+        },
+        "QCOM": {
+            "reportedEPS": 0.83,
+            "pe_ratio": 53.56701310858669,
+            "quarterly_return_six_month": -0.1415525316460839,
+            "quarterly_return_one_year": 0.0986107394118644,
+            "yoy_return": -0.06831217119575961
+        },
+        "MU": {
+            "reportedEPS": 1.62,
+            "pe_ratio": 18.551315495997297,
+            "quarterly_return_six_month": 0.6612554810181959,
+            "quarterly_return_one_year": 1.404072286472156,
+            "yoy_return": -0.23425148221343872
+        },
+        "ASML": {
+            "reportedEPS": 1.18,
+            "pe_ratio": 102.4998487052271,
+            "quarterly_return_six_month": 0.1850312350337453,
+            "quarterly_return_one_year": 0.3728417057590374,
+            "yoy_return": 0.09347265960492424
+        }
+    },
+    "2017_q3": {
+        "NVDA": {
+            "reportedEPS": 0.023,
+            "pe_ratio": 174.42889835523522,
+            "quarterly_return_six_month": 0.5091670339473793,
+            "quarterly_return_one_year": 1.8887242147593932,
+            "yoy_return": 0.3792415169660679
+        },
+        "AMD": {
+            "reportedEPS": 0.1,
+            "pe_ratio": 127.5,
+            "quarterly_return_six_month": -0.1290983810792579,
+            "quarterly_return_one_year": 0.8292683477468867,
+            "yoy_return": 0.07040841894262084
+        },
+        "AVGO": {
+            "reportedEPS": 0.41,
+            "pe_ratio": 47.27567347084604,
+            "quarterly_return_six_month": 0.266047954157284,
+            "quarterly_return_one_year": 0.5257593269767509,
+            "yoy_return": 0.94021101992966
+        },
+        "MRVL": {
+            "reportedEPS": 0.3,
+            "pe_ratio": 49.103498458862305,
+            "quarterly_return_six_month": 0.0562305109916474,
+            "quarterly_return_one_year": 0.3888630036919316,
+            "yoy_return": -0.14973578670407672
+        },
+        "ADSK": {
+            "reportedEPS": -0.11,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": 0.3707893412832606,
+            "quarterly_return_one_year": 0.9141630901287574,
+            "yoy_return": -0.18893015454654372
+        },
+        "QCOM": {
+            "reportedEPS": 0.92,
+            "pe_ratio": 45.87122046429178,
+            "quarterly_return_six_month": -0.0631790766957671,
+            "quarterly_return_one_year": -0.1925150247372232,
+            "yoy_return": -0.05362146556848091
+        },
+        "MU": {
+            "reportedEPS": 2.02,
+            "pe_ratio": 15.458004073341296,
+            "quarterly_return_six_month": 0.2362144155584888,
+            "quarterly_return_one_year": 0.8583188123208589,
+            "yoy_return": 0.6390031454149527
+        },
+        "ASML": {
+            "reportedEPS": 1.52,
+            "pe_ratio": 104.54127663060238,
+            "quarterly_return_six_month": 0.3080629238446661,
+            "quarterly_return_one_year": 0.5868185487668114,
+            "yoy_return": 0.09347265960492424
+        }
+    },
+    "2017_q4": {
+        "NVDA": {
+            "reportedEPS": 0.033,
+            "pe_ratio": 154.84817100293708,
+            "quarterly_return_six_month": 0.9590820446625052,
+            "quarterly_return_one_year": 2.0309053273136235,
+            "yoy_return": 0.3792415169660679
+        },
+        "AMD": {
+            "reportedEPS": 0.08,
+            "pe_ratio": 128.4999966621399,
+            "quarterly_return_six_month": -0.153909460433818,
+            "quarterly_return_one_year": -0.1006124708224048,
+            "yoy_return": 0.24742509363295873
+        },
+        "AVGO": {
+            "reportedEPS": 0.459,
+            "pe_ratio": 45.36673601935891,
+            "quarterly_return_six_month": 0.1712536403334326,
+            "quarterly_return_one_year": 0.5456943988129419,
+            "yoy_return": 0.33202416918429
+        },
+        "MRVL": {
+            "reportedEPS": 0.34,
+            "pe_ratio": 51.59799912396599,
+            "quarterly_return_six_month": 0.2147705936676371,
+            "quarterly_return_one_year": 0.478068847572183,
+            "yoy_return": -0.14973578670407672
+        },
+        "ADSK": {
+            "reportedEPS": -0.12,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": 0.3273701734067009,
+            "quarterly_return_one_year": 0.78441819276526,
+            "yoy_return": -0.18893015454654372
+        },
+        "QCOM": {
+            "reportedEPS": 0.98,
+            "pe_ratio": 53.62915895423111,
+            "quarterly_return_six_month": 0.1879010140974859,
+            "quarterly_return_one_year": 0.0162555731307172,
+            "yoy_return": -0.05362146556848091
+        },
+        "MU": {
+            "reportedEPS": 2.45,
+            "pe_ratio": 16.89893917161591,
+            "quarterly_return_six_month": 0.4014741138438364,
+            "quarterly_return_one_year": 1.3503494974229977,
+            "yoy_return": 0.6390031454149527
+        },
+        "ASML": {
+            "reportedEPS": 1.76,
+            "pe_ratio": 91.6673400185325,
+            "quarterly_return_six_month": 0.3404799167710342,
+            "quarterly_return_one_year": 0.5970317240570948,
+            "yoy_return": 0.3036464924146558
+        }
+    },
+    "2018_q1": {
+        "NVDA": {
+            "reportedEPS": 0.039,
+            "pe_ratio": 155.8358485882099,
+            "quarterly_return_six_month": 0.4602501047391774,
+            "quarterly_return_one_year": 1.0771092290801692,
+            "yoy_return": 0.4057887120115775
+        },
+        "AMD": {
+            "reportedEPS": 0.11,
+            "pe_ratio": 91.36363809758969,
+            "quarterly_return_six_month": -0.2092840156906814,
+            "quarterly_return_one_year": -0.2902542161699518,
+            "yoy_return": 0.24742509363295873
+        },
+        "AVGO": {
+            "reportedEPS": 0.512,
+            "pe_ratio": 38.47673162817955,
+            "quarterly_return_six_month": -0.0268525254750795,
+            "quarterly_return_one_year": 0.1895609909103277,
+            "yoy_return": 0.33202416918429
+        },
+        "MRVL": {
+            "reportedEPS": 0.32,
+            "pe_ratio": 69.43767666816711,
+            "quarterly_return_six_month": 0.5005917633534083,
+            "quarterly_return_one_year": 0.4868304305200279,
+            "yoy_return": 0.03947751064213523
+        },
+        "ADSK": {
+            "reportedEPS": -0.09,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": 0.0661846456380224,
+            "quarterly_return_one_year": 0.3887949416432357,
+            "yoy_return": 0.012604628261939865
+        },
+        "QCOM": {
+            "reportedEPS": 0.8,
+            "pe_ratio": 57.34838008880615,
+            "quarterly_return_six_month": 0.0862957756694238,
+            "quarterly_return_one_year": 0.0152156226770692,
+            "yoy_return": -0.05362146556848091
+        },
+        "MU": {
+            "reportedEPS": 2.82,
+            "pe_ratio": 16.90526380606577,
+            "quarterly_return_six_month": 0.5195496812867011,
+            "quarterly_return_one_year": 0.8895371619786838,
+            "yoy_return": 0.6390031454149527
+        },
+        "ASML": {
+            "reportedEPS": 1.55,
+            "pe_ratio": 118.90157391948084,
+            "quarterly_return_six_month": 0.1632101672722161,
+            "quarterly_return_one_year": 0.5107075285939455,
+            "yoy_return": 0.3036464924146558
+        }
+    },
+    "2018_q2": {
+        "NVDA": {
+            "reportedEPS": 0.051,
+            "pe_ratio": 109.10366095748604,
+            "quarterly_return_six_month": 0.0958273199767609,
+            "quarterly_return_one_year": 1.1864842856801046,
+            "yoy_return": 0.4057887120115775
+        },
+        "AMD": {
+            "reportedEPS": 0.14,
+            "pe_ratio": 107.07142693655832,
+            "quarterly_return_six_month": 0.36520950783802,
+            "quarterly_return_one_year": 0.136467039272077,
+            "yoy_return": 0.24742509363295873
+        },
+        "AVGO": {
+            "reportedEPS": 0.488,
+            "pe_ratio": 37.88723711107598,
+            "quarterly_return_six_month": -0.0990996321752366,
+            "quarterly_return_one_year": 0.0731656700077263,
+            "yoy_return": 0.33202416918429
+        },
+        "MRVL": {
+            "reportedEPS": 0.32,
+            "pe_ratio": 59.873032569885254,
+            "quarterly_return_six_month": 0.1079067045846291,
+            "quarterly_return_one_year": 0.3662820097266464,
+            "yoy_return": 0.03947751064213523
+        },
+        "ADSK": {
+            "reportedEPS": 0.06,
+            "pe_ratio": 2098.3333587646484,
+            "quarterly_return_six_month": 0.0134443047173853,
+            "quarterly_return_one_year": 0.3580696985485065,
+            "yoy_return": 0.012604628261939865
+        },
+        "QCOM": {
+            "reportedEPS": 0.75,
+            "pe_ratio": 62.602762858072914,
+            "quarterly_return_six_month": -0.1228055984140065,
+            "quarterly_return_one_year": 0.051656879105028,
+            "yoy_return": -0.05362146556848091
+        },
+        "MU": {
+            "reportedEPS": 3.15,
+            "pe_ratio": 17.85659911140563,
+            "quarterly_return_six_month": 0.4901168535442217,
+            "quarterly_return_one_year": 1.004806214966805,
+            "yoy_return": 0.6390031454149527
+        },
+        "ASML": {
+            "reportedEPS": 1.63,
+            "pe_ratio": 113.72844485417468,
+            "quarterly_return_six_month": 0.1237468155290628,
+            "quarterly_return_one_year": 0.5190409138783414,
+            "yoy_return": 0.3036464924146558
+        }
+    },
+    "2018_q3": {
+        "NVDA": {
+            "reportedEPS": 0.049,
+            "pe_ratio": 123.71152761031168,
+            "quarterly_return_six_month": -0.0055622131667552,
+            "quarterly_return_one_year": 0.464134867075902,
+            "yoy_return": 0.4057887120115775
+        },
+        "AMD": {
+            "reportedEPS": 0.13,
+            "pe_ratio": 237.6153799203726,
+            "quarterly_return_six_month": 2.2413431537440114,
+            "quarterly_return_one_year": 1.3208113009614766,
+            "yoy_return": 0.24742509363295873
+        },
+        "AVGO": {
+            "reportedEPS": 0.498,
+            "pe_ratio": 36.36972971230626,
+            "quarterly_return_six_month": -0.0664282911367466,
+            "quarterly_return_one_year": -0.0607152149532564,
+            "yoy_return": 0.33202416918429
+        },
+        "MRVL": {
+            "reportedEPS": 0.28,
+            "pe_ratio": 72.89512498038155,
+            "quarterly_return_six_month": -0.0844489050239634,
+            "quarterly_return_one_year": 0.3818885265705414,
+            "yoy_return": 0.03947751064213523
+        },
+        "ADSK": {
+            "reportedEPS": 0.19,
+            "pe_ratio": 676.0000128495066,
+            "quarterly_return_six_month": 0.0984258517824188,
+            "quarterly_return_one_year": 0.1716948123917863,
+            "yoy_return": 0.012604628261939865
+        },
+        "QCOM": {
+            "reportedEPS": 0.9,
+            "pe_ratio": 67.5685543484158,
+            "quarterly_return_six_month": 0.3649008899662509,
+            "quarterly_return_one_year": 0.4376554089810671,
+            "yoy_return": 0.019783769234219983
+        },
+        "MU": {
+            "reportedEPS": 3.53,
+            "pe_ratio": 14.53155971451454,
+            "quarterly_return_six_month": 0.0140303103526622,
+            "quarterly_return_one_year": 0.6451514688357651,
+            "yoy_return": 0.4954728865269167
+        },
+        "ASML": {
+            "reportedEPS": 1.86,
+            "pe_ratio": 94.65606033161122,
+            "quarterly_return_six_month": -0.0174288358303067,
+            "quarterly_return_one_year": 0.10803984004213,
+            "yoy_return": 0.3036464924146558
+        }
+    },
+    "2018_q4": {
+        "NVDA": {
+            "reportedEPS": 0.046,
+            "pe_ratio": 113.52737053580908,
+            "quarterly_return_six_month": -0.127702332137471,
+            "quarterly_return_one_year": -0.0292214995558151,
+            "yoy_return": 0.4057887120115775
+        },
+        "AMD": {
+            "reportedEPS": 0.08,
+            "pe_ratio": 230.7499885559082,
+            "quarterly_return_six_month": 0.1879999796549476,
+            "quarterly_return_one_year": 0.4702970184064627,
+            "yoy_return": 0.21504972790392185
+        },
+        "AVGO": {
+            "reportedEPS": 0.585,
+            "pe_ratio": 31.435286693083935,
+            "quarterly_return_six_month": 0.0017994495319331,
+            "quarterly_return_one_year": -0.1695021699075558,
+            "yoy_return": 0.182127466545702
+        },
+        "MRVL": {
+            "reportedEPS": 0.33,
+            "pe_ratio": 47.77711810487689,
+            "quarterly_return_six_month": -0.2199076192071787,
+            "quarterly_return_one_year": -0.1922751811389804,
+            "yoy_return": 0.03947751064213523
+        },
+        "ADSK": {
+            "reportedEPS": 0.29,
+            "pe_ratio": 445.68965517241384,
+            "quarterly_return_six_month": -0.0128526599471789,
+            "quarterly_return_one_year": 0.0172831480772321,
+            "yoy_return": 0.012604628261939865
+        },
+        "QCOM": {
+            "reportedEPS": 1.2,
+            "pe_ratio": 40.47346750895183,
+            "quarterly_return_six_month": 0.0473458342573176,
+            "quarterly_return_one_year": -0.1055929749511463,
+            "yoy_return": 0.019783769234219983
+        },
+        "MU": {
+            "reportedEPS": 2.97,
+            "pe_ratio": 12.68068820940525,
+            "quarterly_return_six_month": -0.3585448040654615,
+            "quarterly_return_one_year": -0.0498748759894543,
+            "yoy_return": 0.4954728865269167
+        },
+        "ASML": {
+            "reportedEPS": 2.19,
+            "pe_ratio": 66.53937074147403,
+            "quarterly_return_six_month": -0.1900034570206876,
+            "quarterly_return_one_year": -0.1343642545422989,
+            "yoy_return": 0.22106061789416143
+        }
+    },
+    "2019_q1": {
+        "NVDA": {
+            "reportedEPS": 0.02,
+            "pe_ratio": 178.2124638557434,
+            "quarterly_return_six_month": -0.4541742623699825,
+            "quarterly_return_one_year": -0.3552955944534627,
+            "yoy_return": 0.20609429689108505
+        },
+        "AMD": {
+            "reportedEPS": 0.06,
+            "pe_ratio": 425.3333409627279,
+            "quarterly_return_six_month": -0.1877784724444282,
+            "quarterly_return_one_year": 1.612077713618152,
+            "yoy_return": 0.21504972790392185
+        },
+        "AVGO": {
+            "reportedEPS": 0.555,
+            "pe_ratio": 40.18967774537232,
+            "quarterly_return_six_month": 0.2659136293415431,
+            "quarterly_return_one_year": 0.242965799562713,
+            "yoy_return": 0.182127466545702
+        },
+        "MRVL": {
+            "reportedEPS": 0.25,
+            "pe_ratio": 71.50138092041016,
+            "quarterly_return_six_month": -0.1342141868235769,
+            "quarterly_return_one_year": -0.1285150763445773,
+            "yoy_return": 0.18953456999713603
+        },
+        "ADSK": {
+            "reportedEPS": 0.46,
+            "pe_ratio": 319.9999933657439,
+            "quarterly_return_six_month": 0.105641776795524,
+            "quarterly_return_one_year": 0.3372412492389292,
+            "yoy_return": 0.24953807254692206
+        },
+        "QCOM": {
+            "reportedEPS": 0.77,
+            "pe_ratio": 63.94351117022626,
+            "quarterly_return_six_month": -0.1967015180201767,
+            "quarterly_return_one_year": 0.0813855647949963,
+            "yoy_return": 0.019783769234219983
+        },
+        "MU": {
+            "reportedEPS": 1.71,
+            "pe_ratio": 23.34946749503153,
+            "quarterly_return_six_month": -0.2132520138442335,
+            "quarterly_return_one_year": -0.2058426826955902,
+            "yoy_return": 0.4954728865269167
+        },
+        "ASML": {
+            "reportedEPS": 0.99,
+            "pe_ratio": 177.86703398733428,
+            "quarterly_return_six_month": -0.0106796546813072,
+            "quarterly_return_one_year": -0.043096899054466,
+            "yoy_return": 0.22106061789416143
+        }
+    },
+    "2019_q2": {
+        "NVDA": {
+            "reportedEPS": 0.022,
+            "pe_ratio": 204.20360565185547,
+            "quarterly_return_six_month": -0.1476812500804665,
+            "quarterly_return_one_year": -0.2474524649719739,
+            "yoy_return": 0.20609429689108505
+        },
+        "AMD": {
+            "reportedEPS": 0.08,
+            "pe_ratio": 379.6250104904175,
+            "quarterly_return_six_month": 0.6451788919523096,
+            "quarterly_return_one_year": 0.959354892853767,
+            "yoy_return": 0.21504972790392185
+        },
+        "AVGO": {
+            "reportedEPS": 0.521,
+            "pe_ratio": 51.27022682819622,
+            "quarterly_return_six_month": 0.4266329719430741,
+            "quarterly_return_one_year": 0.4121979576230994,
+            "yoy_return": 0.182127466545702
+        },
+        "MRVL": {
+            "reportedEPS": 0.16,
+            "pe_ratio": 151.2986183166504,
+            "quarterly_return_six_month": 0.5427622326736685,
+            "quarterly_return_one_year": 0.1984602462079872,
+            "yoy_return": 0.18953456999713603
+        },
+        "ADSK": {
+            "reportedEPS": 0.45,
+            "pe_ratio": 396.02223714192706,
+            "quarterly_return_six_month": 0.3669631928493728,
+            "quarterly_return_one_year": 0.3647457400977862,
+            "yoy_return": 0.24953807254692206
+        },
+        "QCOM": {
+            "reportedEPS": 0.8,
+            "pe_ratio": 82.84359931945801,
+            "quarterly_return_six_month": 0.3645748760333422,
+            "quarterly_return_one_year": 0.3805476479284704,
+            "yoy_return": 0.019783769234219983
+        },
+        "MU": {
+            "reportedEPS": 1.05,
+            "pe_ratio": 30.333588009788876,
+            "quarterly_return_six_month": -0.1676242910751503,
+            "quarterly_return_one_year": -0.4362096844756508,
+            "yoy_return": 0.4954728865269167
+        },
+        "ASML": {
+            "reportedEPS": 1.27,
+            "pe_ratio": 155.10479784387303,
+            "quarterly_return_six_month": 0.3517800968504054,
+            "quarterly_return_one_year": 0.0733406305693225,
+            "yoy_return": 0.22106061789416143
+        }
+    },
+    "2019_q3": {
+        "NVDA": {
+            "reportedEPS": 0.031,
+            "pe_ratio": 135.24084706460275,
+            "quarterly_return_six_month": 0.2231745144316441,
+            "quarterly_return_one_year": -0.3067610936875786,
+            "yoy_return": 0.20609429689108505
+        },
+        "AMD": {
+            "reportedEPS": 0.18,
+            "pe_ratio": 161.0555542839898,
+            "quarterly_return_six_month": 0.0736448341440934,
+            "quarterly_return_one_year": 0.0338372427456725,
+            "yoy_return": 0.21504972790392185
+        },
+        "AVGO": {
+            "reportedEPS": 0.516,
+            "pe_ratio": 47.60003274725389,
+            "quarterly_return_six_month": 0.1374971097237789,
+            "quarterly_return_one_year": 0.4319617541539005,
+            "yoy_return": 0.182127466545702
+        },
+        "MRVL": {
+            "reportedEPS": 0.16,
+            "pe_ratio": 159.17752981185913,
+            "quarterly_return_six_month": 0.4578753961207378,
+            "quarterly_return_one_year": 0.2452317985997192,
+            "yoy_return": 0.18953456999713603
+        },
+        "ADSK": {
+            "reportedEPS": 0.65,
+            "pe_ratio": 240.26153564453125,
+            "quarterly_return_six_month": 0.0889266073999515,
+            "quarterly_return_one_year": 0.1930776777384766,
+            "yoy_return": 0.24953807254692206
+        },
+        "QCOM": {
+            "reportedEPS": 0.78,
+            "pe_ratio": 85.87885147485977,
+            "quarterly_return_six_month": 0.3417863920905819,
+            "quarterly_return_one_year": 0.1012263590696518,
+            "yoy_return": 0.06778989970086213
+        },
+        "MU": {
+            "reportedEPS": 0.56,
+            "pe_ratio": 78.95592280796595,
+            "quarterly_return_six_month": 0.1025329539124635,
+            "quarterly_return_one_year": -0.1282497030682331,
+            "yoy_return": -0.22983778092198348
+        },
+        "ASML": {
+            "reportedEPS": 1.66,
+            "pe_ratio": 141.77191860704536,
+            "quarterly_return_six_month": 0.2719918193903801,
+            "quarterly_return_one_year": 0.3152827357487262,
+            "yoy_return": 0.22106061789416143
+        }
+    },
+    "2019_q4": {
+        "NVDA": {
+            "reportedEPS": 0.045,
+            "pe_ratio": 111.1116197374132,
+            "quarterly_return_six_month": 0.1115942430630658,
+            "quarterly_return_one_year": -0.0374167098457371,
+            "yoy_return": 0.20609429689108505
+        },
+        "AMD": {
+            "reportedEPS": 0.32,
+            "pe_ratio": 143.31250190734863,
+            "quarterly_return_six_month": 0.4594421185744639,
+            "quarterly_return_one_year": 1.395789497777037,
+            "yoy_return": 0.03953667953667961
+        },
+        "AVGO": {
+            "reportedEPS": 0.539,
+            "pe_ratio": 46.44172753385356,
+            "quarterly_return_six_month": -0.0633207247921239,
+            "quarterly_return_one_year": 0.3699152124659506,
+            "yoy_return": 0.0838929393706831
+        },
+        "MRVL": {
+            "reportedEPS": 0.17,
+            "pe_ratio": 139.51048009535845,
+            "quarterly_return_six_month": -0.0067810562539674,
+            "quarterly_return_one_year": 0.4407800432713924,
+            "yoy_return": 0.18953456999713603
+        },
+        "ADSK": {
+            "reportedEPS": 0.78,
+            "pe_ratio": 188.92307770557892,
+            "quarterly_return_six_month": -0.158007915399815,
+            "quarterly_return_one_year": 0.1144569196951068,
+            "yoy_return": 0.24953807254692206
+        },
+        "QCOM": {
+            "reportedEPS": 0.99,
+            "pe_ratio": 78.86885826033776,
+            "quarterly_return_six_month": 0.1721673112603603,
+            "quarterly_return_one_year": 0.6201104047383976,
+            "yoy_return": 0.06778989970086213
+        },
+        "MU": {
+            "reportedEPS": 0.48,
+            "pe_ratio": 96.67317867279051,
+            "quarterly_return_six_month": 0.4533497757094773,
+            "quarterly_return_one_year": 0.2882319251666245,
+            "yoy_return": -0.22983778092198348
+        },
+        "ASML": {
+            "reportedEPS": 2.98,
+            "pe_ratio": 94.48894526334416,
+            "quarterly_return_six_month": 0.3850747401905821,
+            "quarterly_return_one_year": 0.9448148709881246,
+            "yoy_return": 0.08004385964912286
+        }
+    },
+    "2020_q1": {
+        "NVDA": {
+            "reportedEPS": 0.0473,
+            "pe_ratio": 124.42122050117992,
+            "quarterly_return_six_month": 0.6329655539451433,
+            "quarterly_return_one_year": 0.6541759994843421,
+            "yoy_return": -0.06811198361215431
+        },
+        "AMD": {
+            "reportedEPS": 0.18,
+            "pe_ratio": 252.66666412353516,
+            "quarterly_return_six_month": 0.6905687570898136,
+            "quarterly_return_one_year": 0.6514838290662832,
+            "yoy_return": 0.03953667953667961
+        },
+        "AVGO": {
+            "reportedEPS": 0.525,
+            "pe_ratio": 50.18768673851376,
+            "quarterly_return_six_month": 0.2004874568086481,
+            "quarterly_return_one_year": 0.2027821063266934,
+            "yoy_return": 0.0838929393706831
+        },
+        "MRVL": {
+            "reportedEPS": 0.17,
+            "pe_ratio": 137.8205467672909,
+            "quarterly_return_six_month": 0.0405609802842497,
+            "quarterly_return_one_year": 0.34923971410316,
+            "yoy_return": -0.058144505304120186
+        },
+        "ADSK": {
+            "reportedEPS": 0.92,
+            "pe_ratio": 213.9673979386039,
+            "quarterly_return_six_month": 0.3860137587357803,
+            "quarterly_return_one_year": 0.3126856012953505,
+            "yoy_return": 0.2741458479259087
+        },
+        "QCOM": {
+            "reportedEPS": 0.88,
+            "pe_ratio": 68.5726209120317,
+            "quarterly_return_six_month": -0.0523225475550653,
+            "quarterly_return_one_year": 0.2298904278636258,
+            "yoy_return": 0.06778989970086213
+        },
+        "MU": {
+            "reportedEPS": 0.45,
+            "pe_ratio": 114.07884385850694,
+            "quarterly_return_six_month": 0.1682595733047973,
+            "quarterly_return_one_year": 0.3143287294881638,
+            "yoy_return": -0.22983778092198348
+        },
+        "ASML": {
+            "reportedEPS": 1.03,
+            "pe_ratio": 241.69099678113625,
+            "quarterly_return_six_month": 0.1202875609768354,
+            "quarterly_return_one_year": 0.3523273802313804,
+            "yoy_return": 0.08004385964912286
+        }
+    },
+    "2020_q2": {
+        "NVDA": {
+            "reportedEPS": 0.045,
+            "pe_ratio": 161.7704815334744,
+            "quarterly_return_six_month": 0.4751910065577183,
+            "quarterly_return_one_year": 0.6652549356907189,
+            "yoy_return": -0.06811198361215431
+        },
+        "AMD": {
+            "reportedEPS": 0.18,
+            "pe_ratio": 292.2777811686198,
+            "quarterly_return_six_month": 0.0240325935202965,
+            "quarterly_return_one_year": 0.5961904374379929,
+            "yoy_return": 0.03953667953667961
+        },
+        "AVGO": {
+            "reportedEPS": 0.514,
+            "pe_ratio": 46.40316870425926,
+            "quarterly_return_six_month": -0.043948926365931,
+            "quarterly_return_one_year": -0.0727350526577182,
+            "yoy_return": 0.0838929393706831
+        },
+        "MRVL": {
+            "reportedEPS": 0.18,
+            "pe_ratio": 145.18543879191083,
+            "quarterly_return_six_month": 0.1093992333493814,
+            "quarterly_return_one_year": 0.1473766399051814,
+            "yoy_return": -0.058144505304120186
+        },
+        "ADSK": {
+            "reportedEPS": 0.85,
+            "pe_ratio": 220.15294692095588,
+            "quarterly_return_six_month": 0.2505823221063843,
+            "quarterly_return_one_year": 0.0719990598190141,
+            "yoy_return": 0.2741458479259087
+        },
+        "QCOM": {
+            "reportedEPS": 0.86,
+            "pe_ratio": 95.33624870832575,
+            "quarterly_return_six_month": 0.0194215668539279,
+            "quarterly_return_one_year": 0.1979766643462466,
+            "yoy_return": 0.06778989970086213
+        },
+        "MU": {
+            "reportedEPS": 0.82,
+            "pe_ratio": 57.065624144019154,
+            "quarterly_return_six_month": 0.0327655389920806,
+            "quarterly_return_one_year": 0.4370131650160616,
+            "yoy_return": -0.22983778092198348
+        },
+        "ASML": {
+            "reportedEPS": 1.97,
+            "pe_ratio": 178.6504290430679,
+            "quarterly_return_six_month": 0.2107693350548058,
+            "quarterly_return_one_year": 0.7556583504569323,
+            "yoy_return": 0.08004385964912286
+        }
+    },
+    "2020_q3": {
+        "NVDA": {
+            "reportedEPS": 0.055,
+            "pe_ratio": 192.36141551624644,
+            "quarterly_return_six_month": 0.768434393453951,
+            "quarterly_return_one_year": 1.8234130804475115,
+            "yoy_return": -0.06811198361215431
+        },
+        "AMD": {
+            "reportedEPS": 0.41,
+            "pe_ratio": 199.97560454577936,
+            "quarterly_return_six_month": 0.8379409655685215,
+            "quarterly_return_one_year": 1.8264775589524325,
+            "yoy_return": 0.03953667953667961
+        },
+        "AVGO": {
+            "reportedEPS": 0.54,
+            "pe_ratio": 52.03830930921766,
+            "quarterly_return_six_month": 0.0506012351102491,
+            "quarterly_return_one_year": 0.2213403927553678,
+            "yoy_return": 0.0838929393706831
+        },
+        "MRVL": {
+            "reportedEPS": 0.21,
+            "pe_ratio": 169.9944814046224,
+            "quarterly_return_six_month": 0.4909848419628204,
+            "quarterly_return_one_year": 0.5145502810599649,
+            "yoy_return": -0.058144505304120186
+        },
+        "ADSK": {
+            "reportedEPS": 0.98,
+            "pe_ratio": 241.2550945671237,
+            "quarterly_return_six_month": 0.1848841343585194,
+            "quarterly_return_one_year": 0.6444939336830953,
+            "yoy_return": 0.2741458479259087
+        },
+        "QCOM": {
+            "reportedEPS": 1.45,
+            "pe_ratio": 73.34467394598599,
+            "quarterly_return_six_month": 0.7483397208239988,
+            "quarterly_return_one_year": 0.5823619359254388,
+            "yoy_return": -0.03056894491822193
+        },
+        "MU": {
+            "reportedEPS": 1.08,
+            "pe_ratio": 41.157146736427585,
+            "quarterly_return_six_month": -0.1179536107927383,
+            "quarterly_return_one_year": -0.068121456409479,
+            "yoy_return": -0.08420917713406817
+        },
+        "ASML": {
+            "reportedEPS": 2.96,
+            "pe_ratio": 119.29968756598396,
+            "quarterly_return_six_month": 0.5201138526815614,
+            "quarterly_return_one_year": 0.5258509937376816,
+            "yoy_return": 0.08004385964912286
+        }
+    },
+    "2020_q4": {
+        "NVDA": {
+            "reportedEPS": 0.073,
+            "pe_ratio": 171.18575474987293,
+            "quarterly_return_six_month": 0.722472237187483,
+            "quarterly_return_one_year": 1.3968773047611256,
+            "yoy_return": -0.06811198361215431
+        },
+        "AMD": {
+            "reportedEPS": 0.52,
+            "pe_ratio": 176.3653828547551,
+            "quarterly_return_six_month": 0.7282771213180852,
+            "quarterly_return_one_year": 0.9072122769083945,
+            "yoy_return": 0.450453127321349
+        },
+        "AVGO": {
+            "reportedEPS": 0.635,
+            "pe_ratio": 49.29204925777405,
+            "quarterly_return_six_month": 0.3591567131804105,
+            "quarterly_return_one_year": 0.1660406268394318,
+            "yoy_return": 0.057131477629773775
+        },
+        "MRVL": {
+            "reportedEPS": 0.25,
+            "pe_ratio": 147.07443237304688,
+            "quarterly_return_six_month": 0.4638944513928285,
+            "quarterly_return_one_year": 0.3983845415999494,
+            "yoy_return": -0.058144505304120186
+        },
+        "ADSK": {
+            "reportedEPS": 1.04,
+            "pe_ratio": 226.4807627751277,
+            "quarterly_return_six_month": 0.3247468461379426,
+            "quarterly_return_one_year": 0.5523627490841749,
+            "yoy_return": 0.2741458479259087
+        },
+        "QCOM": {
+            "reportedEPS": 2.17,
+            "pe_ratio": 63.71742635278658,
+            "quarterly_return_six_month": 0.6293983198146775,
+            "quarterly_return_one_year": 0.7777054725069172,
+            "yoy_return": -0.03056894491822193
+        },
+        "MU": {
+            "reportedEPS": 0.78,
+            "pe_ratio": 80.25237352420122,
+            "quarterly_return_six_month": 0.3718496814676648,
+            "quarterly_return_one_year": 0.377734915526241,
+            "yoy_return": -0.08420917713406817
+        },
+        "ASML": {
+            "reportedEPS": 3.85,
+            "pe_ratio": 121.612620167918,
+            "quarterly_return_six_month": 0.2759059539545763,
+            "quarterly_return_one_year": 0.6723086871206989,
+            "yoy_return": 0.18261421319796955
+        }
+    },
+    "2021_q1": {
+        "NVDA": {
+            "reportedEPS": 0.0775,
+            "pe_ratio": 167.15836063508064,
+            "quarterly_return_six_month": 0.1804887637725172,
+            "quarterly_return_one_year": 1.0754800956788002,
+            "yoy_return": 0.5272943762593882
+        },
+        "AMD": {
+            "reportedEPS": 0.52,
+            "pe_ratio": 150.96153846153845,
+            "quarterly_return_six_month": -0.1044072654563574,
+            "quarterly_return_one_year": 0.5993265839201674,
+            "yoy_return": 0.450453127321349
+        },
+        "AVGO": {
+            "reportedEPS": 0.661,
+            "pe_ratio": 61.5346911454886,
+            "quarterly_return_six_month": 0.4272662004891037,
+            "quarterly_return_one_year": 0.4842700250079859,
+            "yoy_return": 0.057131477629773775
+        },
+        "MRVL": {
+            "reportedEPS": 0.29,
+            "pe_ratio": 174.16213463092674,
+            "quarterly_return_six_month": 0.3807349681833998,
+            "quarterly_return_one_year": 1.0055382066886245,
+            "yoy_return": 0.09993438701878099
+        },
+        "ADSK": {
+            "reportedEPS": 1.18,
+            "pe_ratio": 235.1101632845604,
+            "quarterly_return_six_month": 0.1584683381714209,
+            "quarterly_return_one_year": 0.3728720811657597,
+            "yoy_return": 0.15762147634608925
+        },
+        "QCOM": {
+            "reportedEPS": 1.9,
+            "pe_ratio": 63.63940590306333,
+            "quarterly_return_six_month": 0.0985131621365107,
+            "quarterly_return_one_year": 0.874829698578768,
+            "yoy_return": -0.03056894491822193
+        },
+        "MU": {
+            "reportedEPS": 0.98,
+            "pe_ratio": 91.22199233697386,
+            "quarterly_return_six_month": 1.0112067866866623,
+            "quarterly_return_one_year": 0.6554529523920363,
+            "yoy_return": -0.08420917713406817
+        },
+        "ASML": {
+            "reportedEPS": 3.86,
+            "pe_ratio": 153.5394381982675,
+            "quarterly_return_six_month": 0.58012281205625,
+            "quarterly_return_one_year": 1.2375957315094577,
+            "yoy_return": 0.18261421319796955
+        }
+    },
+    "2021_q2": {
+        "NVDA": {
+            "reportedEPS": 0.0915,
+            "pe_ratio": 163.6530454041528,
+            "quarterly_return_six_month": 0.2188912211083713,
+            "quarterly_return_one_year": 1.1073372370146617,
+            "yoy_return": 0.5272943762593882
+        },
+        "AMD": {
+            "reportedEPS": 0.63,
+            "pe_ratio": 149.0952385796441,
+            "quarterly_return_six_month": -0.0238796474023419,
+            "quarterly_return_one_year": 0.6764043836156612,
+            "yoy_return": 0.450453127321349
+        },
+        "AVGO": {
+            "reportedEPS": 0.662,
+            "pe_ratio": 62.70548080029444,
+            "quarterly_return_six_month": 0.3492927480119168,
+            "quarterly_return_one_year": 0.842397801423455,
+            "yoy_return": 0.057131477629773775
+        },
+        "MRVL": {
+            "reportedEPS": 0.29,
+            "pe_ratio": 153.19200713059,
+            "quarterly_return_six_month": 0.2842653468576059,
+            "quarterly_return_one_year": 0.8489535163722541,
+            "yoy_return": 0.09993438701878099
+        },
+        "ADSK": {
+            "reportedEPS": 1.03,
+            "pe_ratio": 283.40777054573726,
+            "quarterly_return_six_month": 0.2307052920945023,
+            "quarterly_return_one_year": 0.6663666686948762,
+            "yoy_return": 0.15762147634608925
+        },
+        "QCOM": {
+            "reportedEPS": 1.92,
+            "pe_ratio": 68.23411782582602,
+            "quarterly_return_six_month": -0.0545430989141038,
+            "quarterly_return_one_year": 0.5650800697116136,
+            "yoy_return": -0.03056894491822193
+        },
+        "MU": {
+            "reportedEPS": 1.88,
+            "pe_ratio": 43.71262814136262,
+            "quarterly_return_six_month": 0.2543229549188572,
+            "quarterly_return_one_year": 0.6427174578270078,
+            "yoy_return": -0.08420917713406817
+        },
+        "ASML": {
+            "reportedEPS": 3.04,
+            "pe_ratio": 218.79547520687703,
+            "quarterly_return_six_month": 0.4470058740379576,
+            "quarterly_return_one_year": 0.8379900839452017,
+            "yoy_return": 0.18261421319796955
+        }
+    },
+    "2021_q3": {
+        "NVDA": {
+            "reportedEPS": 0.104,
+            "pe_ratio": 187.09296446580151,
+            "quarterly_return_six_month": 0.4739135934491068,
+            "quarterly_return_one_year": 0.738709845658158,
+            "yoy_return": 0.5272943762593882
+        },
+        "AMD": {
+            "reportedEPS": 0.73,
+            "pe_ratio": 140.95890619983413,
+            "quarterly_return_six_month": 0.2323467775763077,
+            "quarterly_return_one_year": 0.164828748656221,
+            "yoy_return": 0.450453127321349
+        },
+        "AVGO": {
+            "reportedEPS": 0.696,
+            "pe_ratio": 63.956562129930525,
+            "quarterly_return_six_month": 0.0563132975689446,
+            "quarterly_return_one_year": 0.5279323206448177,
+            "yoy_return": 0.057131477629773775
+        },
+        "MRVL": {
+            "reportedEPS": 0.34,
+            "pe_ratio": 175.06844015682444,
+            "quarterly_return_six_month": 0.1470851630918384,
+            "quarterly_return_one_year": 0.6215758759594938,
+            "yoy_return": 0.09993438701878099
+        },
+        "ADSK": {
+            "reportedEPS": 1.21,
+            "pe_ratio": 265.3966982502583,
+            "quarterly_return_six_month": 0.1215772445799645,
+            "quarterly_return_one_year": 0.3385994708335742,
+            "yoy_return": 0.15762147634608925
+        },
+        "QCOM": {
+            "reportedEPS": 2.55,
+            "pe_ratio": 46.577872482000615,
+            "quarterly_return_six_month": -0.0697292633630783,
+            "quarterly_return_one_year": 0.0930390019980538,
+            "yoy_return": 0.4264587140368026
+        },
+        "MU": {
+            "reportedEPS": 2.42,
+            "pe_ratio": 29.74502311265173,
+            "quarterly_return_six_month": -0.1789922466485827,
+            "quarterly_return_one_year": 0.5740103174768558,
+            "yoy_return": 0.29251224632610207
+        },
+        "ASML": {
+            "reportedEPS": 5.02,
+            "pe_ratio": 142.9061950440426,
+            "quarterly_return_six_month": 0.1750537697170098,
+            "quarterly_return_one_year": 0.9772581668513368,
+            "yoy_return": 0.18261421319796955
+        }
+    },
+    "2021_q4": {
+        "NVDA": {
+            "reportedEPS": 0.117,
+            "pe_ratio": 218.09664343157385,
+            "quarterly_return_six_month": 0.7239198406126133,
+            "quarterly_return_one_year": 0.8553928635471559,
+            "yoy_return": 0.5272943762593882
+        },
+        "AMD": {
+            "reportedEPS": 0.92,
+            "pe_ratio": 156.41303684400475,
+            "quarterly_return_six_month": 0.5364665186928639,
+            "quarterly_return_one_year": 0.5725892643263546,
+            "yoy_return": 0.6832940694458671
+        },
+        "AVGO": {
+            "reportedEPS": 0.781,
+            "pe_ratio": 62.88642736769516,
+            "quarterly_return_six_month": 0.1990907970771485,
+            "quarterly_return_one_year": 0.5045747184141449,
+            "yoy_return": 0.14911252511721362
+        },
+        "MRVL": {
+            "reportedEPS": 0.43,
+            "pe_ratio": 156.8522431129633,
+            "quarterly_return_six_month": 0.5490226948427159,
+            "quarterly_return_one_year": 0.7570592424924691,
+            "yoy_return": 0.09993438701878099
+        },
+        "ADSK": {
+            "reportedEPS": 1.33,
+            "pe_ratio": 238.8045002643327,
+            "quarterly_return_six_month": 0.1047303838315203,
+            "quarterly_return_one_year": 0.291675082923005,
+            "yoy_return": 0.15762147634608925
+        },
+        "QCOM": {
+            "reportedEPS": 3.23,
+            "pe_ratio": 52.33304995132305,
+            "quarterly_return_six_month": 0.3051561909179461,
+            "quarterly_return_one_year": 0.2531851972275036,
+            "yoy_return": 0.4264587140368026
+        },
+        "MU": {
+            "reportedEPS": 2.16,
+            "pe_ratio": 38.03596496582031,
+            "quarterly_return_six_month": 0.022769986359254,
+            "quarterly_return_one_year": 0.1761713664187716,
+            "yoy_return": 0.29251224632610207
+        },
+        "ASML": {
+            "reportedEPS": 5.01,
+            "pe_ratio": 153.39404199413673,
+            "quarterly_return_six_month": 0.1697415166536395,
+            "quarterly_return_one_year": 0.6092644764756507,
+            "yoy_return": 0.33140179561469396
+        }
+    },
+    "2022_q1": {
+        "NVDA": {
+            "reportedEPS": 0.132,
+            "pe_ratio": 185.16211076216263,
+            "quarterly_return_six_month": 0.1530063236802912,
+            "quarterly_return_one_year": 0.6729753417632522,
+            "yoy_return": 0.6140329835082459
+        },
+        "AMD": {
+            "reportedEPS": 1.13,
+            "pe_ratio": 96.76105870609793,
+            "quarterly_return_six_month": 0.1636896512640526,
+            "quarterly_return_one_year": 0.4640795870551584,
+            "yoy_return": 0.6832940694458671
+        },
+        "AVGO": {
+            "reportedEPS": 0.839,
+            "pe_ratio": 64.92049588918402,
+            "quarterly_return_six_month": 0.1664455730227696,
+            "quarterly_return_one_year": 0.2254466492007059,
+            "yoy_return": 0.14911252511721362
+        },
+        "MRVL": {
+            "reportedEPS": 0.5,
+            "pe_ratio": 140.70411682128906,
+            "quarterly_return_six_month": 0.0829779192957356,
+            "quarterly_return_one_year": 0.3236497209244755,
+            "yoy_return": 0.5030425410084542
+        },
+        "ADSK": {
+            "reportedEPS": 1.5,
+            "pe_ratio": 166.52666219075522,
+            "quarterly_return_six_month": -0.2688257257205406,
+            "quarterly_return_one_year": -0.2028353653334762,
+            "yoy_return": 0.1572393414943014
+        },
+        "QCOM": {
+            "reportedEPS": 3.21,
+            "pe_ratio": 44.1895101672021,
+            "quarterly_return_six_month": 0.1960755183356608,
+            "quarterly_return_one_year": 0.107767984680801,
+            "yoy_return": 0.4264587140368026
+        },
+        "MU": {
+            "reportedEPS": 2.14,
+            "pe_ratio": 40.65595252491603,
+            "quarterly_return_six_month": 0.2255378141908546,
+            "quarterly_return_one_year": 0.0710561641470421,
+            "yoy_return": 0.29251224632610207
+        },
+        "ASML": {
+            "reportedEPS": 1.94,
+            "pe_ratio": 332.34256075829575,
+            "quarterly_return_six_month": -0.0747880918321858,
+            "quarterly_return_one_year": 0.0746995651470845,
+            "yoy_return": 0.33140179561469396
+        }
+    },
+    "2022_q2": {
+        "NVDA": {
+            "reportedEPS": 0.136,
+            "pe_ratio": 136.14978509790757,
+            "quarterly_return_six_month": -0.2816652171088372,
+            "quarterly_return_one_year": 0.293263942097266,
+            "yoy_return": 0.6140329835082459
+        },
+        "AMD": {
+            "reportedEPS": 1.05,
+            "pe_ratio": 72.82857259114583,
+            "quarterly_return_six_month": -0.4580263990846845,
+            "quarterly_return_one_year": -0.1744469476446032,
+            "yoy_return": 0.6832940694458671
+        },
+        "AVGO": {
+            "reportedEPS": 0.907,
+            "pe_ratio": 57.20975091465253,
+            "quarterly_return_six_month": 0.0637423354959103,
+            "quarterly_return_one_year": 0.2827981038384788,
+            "yoy_return": 0.14911252511721362
+        },
+        "MRVL": {
+            "reportedEPS": 0.52,
+            "pe_ratio": 110.15236927912784,
+            "quarterly_return_six_month": -0.1564105845684198,
+            "quarterly_return_one_year": 0.3101919722077491,
+            "yoy_return": 0.5030425410084542
+        },
+        "ADSK": {
+            "reportedEPS": 1.43,
+            "pe_ratio": 132.36363550999783,
+            "quarterly_return_six_month": -0.3991302088459798,
+            "quarterly_return_one_year": -0.3233475446131235,
+            "yoy_return": 0.1572393414943014
+        },
+        "QCOM": {
+            "reportedEPS": 2.96,
+            "pe_ratio": 40.2679391809412,
+            "quarterly_return_six_month": -0.2811194532261724,
+            "quarterly_return_one_year": -0.0610301154737555,
+            "yoy_return": 0.4264587140368026
+        },
+        "MU": {
+            "reportedEPS": 2.59,
+            "pe_ratio": 27.952242818118066,
+            "quarterly_return_six_month": -0.1368353127217502,
+            "quarterly_return_one_year": -0.1212843941898099,
+            "yoy_return": 0.29251224632610207
+        },
+        "ASML": {
+            "reportedEPS": 3.77,
+            "pe_ratio": 122.68385343273376,
+            "quarterly_return_six_month": -0.3871046406875676,
+            "quarterly_return_one_year": -0.2867261484324284,
+            "yoy_return": 0.33140179561469396
+        }
+    },
+    "2022_q3": {
+        "NVDA": {
+            "reportedEPS": 0.051,
+            "pe_ratio": 355.62425501206343,
+            "quarterly_return_six_month": -0.2579460248103448,
+            "quarterly_return_one_year": -0.1035135392744504,
+            "yoy_return": 0.6140329835082459
+        },
+        "AMD": {
+            "reportedEPS": 0.67,
+            "pe_ratio": 94.56716509007695,
+            "quarterly_return_six_month": -0.4197050565636813,
+            "quarterly_return_one_year": -0.3607733532931403,
+            "yoy_return": 0.6832940694458671
+        },
+        "AVGO": {
+            "reportedEPS": 0.973,
+            "pe_ratio": 51.937138556453945,
+            "quarterly_return_six_month": -0.0722154517651219,
+            "quarterly_return_one_year": 0.1296773333092298,
+            "yoy_return": 0.14911252511721362
+        },
+        "MRVL": {
+            "reportedEPS": 0.57,
+            "pe_ratio": 96.46947760331004,
+            "quarterly_return_six_month": -0.218393531328196,
+            "quarterly_return_one_year": -0.0967985899334148,
+            "yoy_return": 0.5030425410084542
+        },
+        "ADSK": {
+            "reportedEPS": 1.65,
+            "pe_ratio": 131.10303474195075,
+            "quarterly_return_six_month": -0.133992501147051,
+            "quarterly_return_one_year": -0.3426721877558578,
+            "yoy_return": 0.1572393414943014
+        },
+        "QCOM": {
+            "reportedEPS": 3.13,
+            "pe_ratio": 33.86971958148213,
+            "quarterly_return_six_month": -0.2452225184189542,
+            "quarterly_return_one_year": -0.0762765626267136,
+            "yoy_return": 0.31680867544539115
+        },
+        "MU": {
+            "reportedEPS": 1.45,
+            "pe_ratio": 38.298797607421875,
+            "quarterly_return_six_month": -0.3665920710693451,
+            "quarterly_return_one_year": -0.2310349125462624,
+            "yoy_return": 0.11019671539433307
+        },
+        "ASML": {
+            "reportedEPS": 4.32,
+            "pe_ratio": 93.6706613611292,
+            "quarterly_return_six_month": -0.3658411185572747,
+            "quarterly_return_one_year": -0.3928358563833262,
+            "yoy_return": 0.33140179561469396
+        }
+    },
+    "2022_q4": {
+        "NVDA": {
+            "reportedEPS": 0.058,
+            "pe_ratio": 232.4407511744006,
+            "quarterly_return_six_month": -0.2938966801658574,
+            "quarterly_return_one_year": -0.5354152706914238,
+            "yoy_return": 0.6140329835082459
+        },
+        "AMD": {
+            "reportedEPS": 0.69,
+            "pe_ratio": 93.86956035227016,
+            "quarterly_return_six_month": -0.1386968181974052,
+            "quarterly_return_one_year": -0.551516428027528,
+            "yoy_return": 0.4361080686381891
+        },
+        "AVGO": {
+            "reportedEPS": 1.045,
+            "pe_ratio": 42.812102833433016,
+            "quarterly_return_six_month": -0.1726710149642405,
+            "quarterly_return_one_year": -0.1120142940983023,
+            "yoy_return": 0.20958105646630232
+        },
+        "MRVL": {
+            "reportedEPS": 0.57,
+            "pe_ratio": 68.83377610591421,
+            "quarterly_return_six_month": -0.3193637200270283,
+            "quarterly_return_one_year": -0.4243254823738999,
+            "yoy_return": 0.5030425410084542
+        },
+        "ADSK": {
+            "reportedEPS": 1.7,
+            "pe_ratio": 126.05882532456344,
+            "quarterly_return_six_month": 0.1199151124239956,
+            "quarterly_return_one_year": -0.321597646921276,
+            "yoy_return": 0.1572393414943014
+        },
+        "QCOM": {
+            "reportedEPS": 2.37,
+            "pe_ratio": 43.80483184685687,
+            "quarterly_return_six_month": -0.1157768038965824,
+            "quarterly_return_one_year": -0.4001276312933298,
+            "yoy_return": 0.31680867544539115
+        },
+        "MU": {
+            "reportedEPS": -0.04,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": -0.2656967710296049,
+            "quarterly_return_one_year": -0.3271175175841886,
+            "yoy_return": 0.11019671539433307
+        },
+        "ASML": {
+            "reportedEPS": 4.7,
+            "pe_ratio": 113.60354159740692,
+            "quarterly_return_six_month": 0.2704943793658638,
+            "quarterly_return_one_year": -0.2901124586792419,
+            "yoy_return": 0.137682016012036
+        }
+    },
+    "2023_q1": {
+        "NVDA": {
+            "reportedEPS": 0.088,
+            "pe_ratio": 221.81424227627843,
+            "quarterly_return_six_month": 0.0147989517046935,
+            "quarterly_return_one_year": -0.2113195360862607,
+            "yoy_return": 0.002229323028906993
+        },
+        "AMD": {
+            "reportedEPS": 0.6,
+            "pe_ratio": 163.35000356038412,
+            "quarterly_return_six_month": 0.4805626433180183,
+            "quarterly_return_one_year": -0.1144485810692712,
+            "yoy_return": 0.4361080686381891
+        },
+        "AVGO": {
+            "reportedEPS": 1.033,
+            "pe_ratio": 54.343257730489555,
+            "quarterly_return_six_month": 0.081350912356009,
+            "quarterly_return_one_year": 0.0169279467209622,
+            "yoy_return": 0.20958105646630232
+        },
+        "MRVL": {
+            "reportedEPS": 0.46,
+            "pe_ratio": 92.90520211924677,
+            "quarterly_return_six_month": -0.2766887408079337,
+            "quarterly_return_one_year": -0.4063711960529856,
+            "yoy_return": 0.3265557886895858
+        },
+        "ADSK": {
+            "reportedEPS": 1.86,
+            "pe_ratio": 115.67742132371473,
+            "quarterly_return_six_month": -0.0426662114084103,
+            "quarterly_return_one_year": -0.1331454553332224,
+            "yoy_return": 0.14102681014043417
+        },
+        "QCOM": {
+            "reportedEPS": 2.15,
+            "pe_ratio": 56.37720862100291,
+            "quarterly_return_six_month": 0.1004561791655014,
+            "quarterly_return_one_year": -0.152186638590319,
+            "yoy_return": 0.31680867544539115
+        },
+        "MU": {
+            "reportedEPS": -1.91,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": 0.0287316421198851,
+            "quarterly_return_one_year": -0.287661023250363,
+            "yoy_return": 0.11019671539433307
+        },
+        "ASML": {
+            "reportedEPS": 4.96,
+            "pe_ratio": 134.40057077715474,
+            "quarterly_return_six_month": 0.5756832800781655,
+            "quarterly_return_one_year": 0.0083432435431936,
+            "yoy_return": 0.137682016012036
+        }
+    },
+    "2023_q2": {
+        "NVDA": {
+            "reportedEPS": 0.109,
+            "pe_ratio": 254.39509120556193,
+            "quarterly_return_six_month": 1.0568140090120268,
+            "quarterly_return_one_year": 0.3659357349459957,
+            "yoy_return": 0.002229323028906993
+        },
+        "AMD": {
+            "reportedEPS": 0.58,
+            "pe_ratio": 196.3965580381196,
+            "quarterly_return_six_month": 0.7375820633664047,
+            "quarterly_return_one_year": 0.4792553507725892,
+            "yoy_return": 0.4361080686381891
+        },
+        "AVGO": {
+            "reportedEPS": 1.032,
+            "pe_ratio": 58.67306021756904,
+            "quarterly_return_six_month": 0.3534295716750864,
+            "quarterly_return_one_year": 0.0716773866074782,
+            "yoy_return": 0.20958105646630232
+        },
+        "MRVL": {
+            "reportedEPS": 0.31,
+            "pe_ratio": 126.3213372999622,
+            "quarterly_return_six_month": -0.0019276084160632,
+            "quarterly_return_one_year": -0.3688273494086955,
+            "yoy_return": 0.3265557886895858
+        },
+        "ADSK": {
+            "reportedEPS": 1.55,
+            "pe_ratio": 125.67096341040826,
+            "quarterly_return_six_month": -0.0910406415669198,
+            "quarterly_return_one_year": -0.0439754930741952,
+            "yoy_return": 0.14102681014043417
+        },
+        "QCOM": {
+            "reportedEPS": 1.87,
+            "pe_ratio": 60.89985077393883,
+            "quarterly_return_six_month": 0.1157279203413996,
+            "quarterly_return_one_year": -0.0380350403589296,
+            "yoy_return": 0.31680867544539115
+        },
+        "MU": {
+            "reportedEPS": -1.43,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": 0.2975014036273637,
+            "quarterly_return_one_year": 0.0261393322326866,
+            "yoy_return": 0.11019671539433307
+        },
+        "ASML": {
+            "reportedEPS": 4.93,
+            "pe_ratio": 144.38789785512805,
+            "quarterly_return_six_month": 0.3229270682152156,
+            "quarterly_return_one_year": 0.6905230780268434,
+            "yoy_return": 0.137682016012036
+        }
+    },
+    "2023_q3": {
+        "NVDA": {
+            "reportedEPS": 0.27,
+            "pe_ratio": 172.96392652723523,
+            "quarterly_return_six_month": 1.3935490994653057,
+            "quarterly_return_one_year": 1.435006152778374,
+            "yoy_return": 0.002229323028906993
+        },
+        "AMD": {
+            "reportedEPS": 0.7,
+            "pe_ratio": 146.8857138497489,
+            "quarterly_return_six_month": 0.0648301811775813,
+            "quarterly_return_one_year": 0.5142856757615268,
+            "yoy_return": 0.4361080686381891
+        },
+        "AVGO": {
+            "reportedEPS": 1.054,
+            "pe_ratio": 82.84282503363303,
+            "quarterly_return_six_month": 0.5573997023213506,
+            "quarterly_return_one_year": 0.6758318234375829,
+            "yoy_return": 0.20958105646630232
+        },
+        "MRVL": {
+            "reportedEPS": 0.33,
+            "pe_ratio": 195.95859411991003,
+            "quarterly_return_six_month": 0.5080333647264625,
+            "quarterly_return_one_year": 0.1379149439287617,
+            "yoy_return": 0.3265557886895858
+        },
+        "ADSK": {
+            "reportedEPS": 1.91,
+            "pe_ratio": 110.98953167181364,
+            "quarterly_return_six_month": -0.0249582184633606,
+            "quarterly_return_one_year": -0.0547445661963577,
+            "yoy_return": 0.14102681014043417
+        },
+        "QCOM": {
+            "reportedEPS": 2.02,
+            "pe_ratio": 52.97067849942953,
+            "quarterly_return_six_month": -0.0971372188967651,
+            "quarterly_return_one_year": -0.0681250184799516,
+            "yoy_return": -0.18959276018099547
+        },
+        "MU": {
+            "reportedEPS": -1.07,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": 0.2038742533171071,
+            "quarterly_return_one_year": 0.2430943211990326,
+            "yoy_return": -0.4947655894401457
+        },
+        "ASML": {
+            "reportedEPS": 4.81,
+            "pe_ratio": 120.46911037389556,
+            "quarterly_return_six_month": -0.1220966156503629,
+            "quarterly_return_one_year": 0.278768597412955,
+            "yoy_return": 0.137682016012036
+        }
+    },
+    "2023_q4": {
+        "NVDA": {
+            "reportedEPS": 0.402,
+            "pe_ratio": 101.38874148848043,
+            "quarterly_return_six_month": 0.4807802642672889,
+            "quarterly_return_one_year": 1.9094503106767184,
+            "yoy_return": 0.002229323028906993
+        },
+        "AMD": {
+            "reportedEPS": 0.77,
+            "pe_ratio": 191.44156319754464,
+            "quarterly_return_six_month": 0.2727508552108637,
+            "quarterly_return_one_year": 1.279771037942139,
+            "yoy_return": -0.039023770179229644
+        },
+        "AVGO": {
+            "reportedEPS": 1.106,
+            "pe_ratio": 74.31829773280332,
+            "quarterly_return_six_month": 0.3867221729960697,
+            "quarterly_return_one_year": 0.8560163780613979,
+            "yoy_return": 0.07878806131976024
+        },
+        "MRVL": {
+            "reportedEPS": 0.41,
+            "pe_ratio": 114.47966040634527,
+            "quarterly_return_six_month": 0.1874961682031803,
+            "quarterly_return_one_year": 0.2080229674545251,
+            "yoy_return": 0.3265557886895858
+        },
+        "ADSK": {
+            "reportedEPS": 2.07,
+            "pe_ratio": 95.47343231053743,
+            "quarterly_return_six_month": 0.0211151079108362,
+            "quarterly_return_one_year": 0.0211677979918805,
+            "yoy_return": 0.14102681014043417
+        },
+        "QCOM": {
+            "reportedEPS": 2.75,
+            "pe_ratio": 50.99273126775568,
+            "quarterly_return_six_month": 0.2205883202568863,
+            "quarterly_return_one_year": 0.3314800537250655,
+            "yoy_return": -0.18959276018099547
+        },
+        "MU": {
+            "reportedEPS": -0.95,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": 0.1126573075268095,
+            "quarterly_return_one_year": 0.4303017543718728,
+            "yoy_return": -0.4947655894401457
+        },
+        "ASML": {
+            "reportedEPS": 5.21,
+            "pe_ratio": 143.37702950680782,
+            "quarterly_return_six_month": 0.0363411707832819,
+            "quarterly_return_one_year": 0.3391571074240163,
+            "yoy_return": 0.30156233765007046
+        }
+    },
+    "2024_q1": {
+        "NVDA": {
+            "reportedEPS": 0.516,
+            "pe_ratio": 119.18534419333288,
+            "quarterly_return_six_month": 0.4104165753814277,
+            "quarterly_return_one_year": 1.9779434754940075,
+            "yoy_return": 1.2585452658115224
+        },
+        "AMD": {
+            "reportedEPS": 0.62,
+            "pe_ratio": 291.11291208574846,
+            "quarterly_return_six_month": 0.7477487301272441,
+            "quarterly_return_one_year": 0.94997850317474,
+            "yoy_return": -0.039023770179229644
+        },
+        "AVGO": {
+            "reportedEPS": 1.099,
+            "pe_ratio": 105.37571859316353,
+            "quarterly_return_six_month": 0.3789302358678301,
+            "quarterly_return_one_year": 1.0549761752277251,
+            "yoy_return": 0.07878806131976024
+        },
+        "MRVL": {
+            "reportedEPS": 0.46,
+            "pe_ratio": 146.44563094429347,
+            "quarterly_return_six_month": 0.1063427391128597,
+            "quarterly_return_one_year": 0.5356931434297345,
+            "yoy_return": -0.06958240421650108
+        },
+        "ADSK": {
+            "reportedEPS": 2.09,
+            "pe_ratio": 121.44019021942286,
+            "quarterly_return_six_month": 0.2657684700484317,
+            "quarterly_return_one_year": 0.1746359142729172,
+            "yoy_return": 0.08691308691308697
+        },
+        "QCOM": {
+            "reportedEPS": 2.44,
+            "pe_ratio": 67.61609061819608,
+            "quarterly_return_six_month": 0.5413334249474848,
+            "quarterly_return_one_year": 0.4113480426325335,
+            "yoy_return": -0.18959276018099547
+        },
+        "MU": {
+            "reportedEPS": 0.42,
+            "pe_ratio": 214.33931986490887,
+            "quarterly_return_six_month": 0.2783062306840813,
+            "quarterly_return_one_year": 0.5895034165415947,
+            "yoy_return": -0.4947655894401457
+        },
+        "ASML": {
+            "reportedEPS": 3.11,
+            "pe_ratio": 308.4951909792002,
+            "quarterly_return_six_month": 0.6741536247890549,
+            "quarterly_return_one_year": 0.475657360629111,
+            "yoy_return": 0.30156233765007046
+        }
+    },
+    "2024_q2": {
+        "NVDA": {
+            "reportedEPS": 0.612,
+            "pe_ratio": 141.123578439351,
+            "quarterly_return_six_month": 1.0736873695593676,
+            "quarterly_return_one_year": 2.0608488333082486,
+            "yoy_return": 1.2585452658115224
+        },
+        "AMD": {
+            "reportedEPS": 0.69,
+            "pe_ratio": 235.08696625198144,
+            "quarterly_return_six_month": 0.1705152588439142,
+            "quarterly_return_one_year": 0.4235191843624677,
+            "yoy_return": -0.039023770179229644
+        },
+        "AVGO": {
+            "reportedEPS": 1.096,
+            "pe_ratio": 116.92970164500883,
+            "quarterly_return_six_month": 0.5833495547874641,
+            "quarterly_return_one_year": 1.166399451990681,
+            "yoy_return": 0.07878806131976024
+        },
+        "MRVL": {
+            "reportedEPS": 0.24,
+            "pe_ratio": 273.4957695007324,
+            "quarterly_return_six_month": 0.4440381622751133,
+            "quarterly_return_one_year": 0.6848297014836009,
+            "yoy_return": -0.06958240421650108
+        },
+        "ADSK": {
+            "reportedEPS": 1.87,
+            "pe_ratio": 113.8235326756768,
+            "quarterly_return_six_month": 0.0897300897839372,
+            "quarterly_return_one_year": 0.1120344519563432,
+            "yoy_return": 0.08691308691308697
+        },
+        "QCOM": {
+            "reportedEPS": 2.33,
+            "pe_ratio": 83.64671698967274,
+            "quarterly_return_six_month": 0.433445807027371,
+            "quarterly_return_one_year": 0.7392892228970371,
+            "yoy_return": -0.18959276018099547
+        },
+        "MU": {
+            "reportedEPS": 0.62,
+            "pe_ratio": 200.49906084614415,
+            "quarterly_return_six_month": 0.7038790659901917,
+            "quarterly_return_one_year": 0.874442149764904,
+            "yoy_return": -0.4947655894401457
+        },
+        "ASML": {
+            "reportedEPS": 4.01,
+            "pe_ratio": 252.6652728530237,
+            "quarterly_return_six_month": 0.4320293954730281,
+            "quarterly_return_one_year": 0.4414103846760984,
+            "yoy_return": 0.30156233765007046
+        }
+    },
+    "2024_q3": {
+        "NVDA": {
+            "reportedEPS": 0.68,
+            "pe_ratio": 172.03388214111328,
+            "quarterly_return_six_month": 0.6460149898263998,
+            "quarterly_return_one_year": 1.2846305210140012,
+            "yoy_return": 1.2585452658115224
+        },
+        "AMD": {
+            "reportedEPS": 0.92,
+            "pe_ratio": 178.34782807723334,
+            "quarterly_return_six_month": -0.0803021325673722,
+            "quarterly_return_one_year": 0.5970265305123861,
+            "yoy_return": -0.039023770179229644
+        },
+        "AVGO": {
+            "reportedEPS": 1.24,
+            "pe_ratio": 128.12054541803175,
+            "quarterly_return_six_month": 0.2048974328959065,
+            "quarterly_return_one_year": 0.628038815256051,
+            "yoy_return": 0.07878806131976024
+        },
+        "MRVL": {
+            "reportedEPS": 0.3,
+            "pe_ratio": 222.5335693359375,
+            "quarterly_return_six_month": -0.0592928645040513,
+            "quarterly_return_one_year": -0.0079841471787203,
+            "yoy_return": -0.06958240421650108
+        },
+        "ADSK": {
+            "reportedEPS": 2.15,
+            "pe_ratio": 115.12558338253996,
+            "quarterly_return_six_month": -0.0459874177657347,
+            "quarterly_return_one_year": 0.1944825980747215,
+            "yoy_return": 0.08691308691308697
+        },
+        "QCOM": {
+            "reportedEPS": 2.69,
+            "pe_ratio": 62.175889706523,
+            "quarterly_return_six_month": 0.003917437568127,
+            "quarterly_return_one_year": 0.5817832663370344,
+            "yoy_return": 0.08771635957565604
+        },
+        "MU": {
+            "reportedEPS": 1.18,
+            "pe_ratio": 81.1796737929522,
+            "quarterly_return_six_month": 0.0067573126241542,
+            "quarterly_return_one_year": 0.3758332920586469,
+            "yoy_return": 0.6158944658944658
+        },
+        "ASML": {
+            "reportedEPS": 5.28,
+            "pe_ratio": 156.6297588926373,
+            "quarterly_return_six_month": -0.1260537743774247,
+            "quarterly_return_one_year": 0.4586792615134412,
+            "yoy_return": 0.30156233765007046
+        }
+    },
+    "2024_q4": {
+        "NVDA": {
+            "reportedEPS": 0.81,
+            "pe_ratio": 163.8634952498071,
+            "quarterly_return_six_month": 0.5696016571993001,
+            "quarterly_return_one_year": 2.046537984064517,
+            "yoy_return": 1.2585452658115224
+        },
+        "AMD": {
+            "reportedEPS": 1.09,
+            "pe_ratio": 110.81651460140122,
+            "quarterly_return_six_month": -0.2529590787005366,
+            "quarterly_return_one_year": -0.1164670167151911,
+            "yoy_return": 0.13690476190476186
+        },
+        "AVGO": {
+            "reportedEPS": 1.42,
+            "pe_ratio": 118.59800311881052,
+            "quarterly_return_six_month": 0.3909892109325938,
+            "quarterly_return_one_year": 1.0362816262647394,
+            "yoy_return": 0.43985035874815037
+        },
+        "MRVL": {
+            "reportedEPS": 0.43,
+            "pe_ratio": 185.84435041560684,
+            "quarterly_return_six_month": 0.2105894125778471,
+            "quarterly_return_one_year": 0.621683324644027,
+            "yoy_return": -0.06958240421650108
+        },
+        "ADSK": {
+            "reportedEPS": 2.17,
+            "pe_ratio": 130.78340451288884,
+            "quarterly_return_six_month": 0.3421627587130176,
+            "quarterly_return_one_year": 0.4298727633531056,
+            "yoy_return": 0.08691308691308697
+        },
+        "QCOM": {
+            "reportedEPS": 3.41,
+            "pe_ratio": 44.54068718068411,
+            "quarterly_return_six_month": -0.2336408010457806,
+            "quarterly_return_one_year": 0.1528440703401148,
+            "yoy_return": 0.08771635957565604
+        },
+        "MU": {
+            "reportedEPS": 1.79,
+            "pe_ratio": 54.527278452612165,
+            "quarterly_return_six_month": -0.2342509918333889,
+            "quarterly_return_one_year": 0.3349479226341141,
+            "yoy_return": 0.6158944658944658
+        },
+        "ASML": {
+            "reportedEPS": 6.84,
+            "pe_ratio": 100.80150581939876,
+            "quarterly_return_six_month": -0.3475340484792474,
+            "quarterly_return_one_year": -0.0022771772358233,
+            "yoy_return": 0.02556017199775029
+        }
+    },
+    "2025_q1": {
+        "NVDA": {
+            "reportedEPS": 0.89,
+            "pe_ratio": 134.88833823900544,
+            "quarterly_return_six_month": 0.2411075986489605,
+            "quarterly_return_one_year": 0.7983807239590477,
+            "yoy_return": 1.1420340763599355
+        },
+        "AMD": {
+            "reportedEPS": 0.96,
+            "pe_ratio": 107.02083110809326,
+            "quarterly_return_six_month": -0.3538654070691511,
+            "quarterly_return_one_year": -0.3775553272569939,
+            "yoy_return": 0.13690476190476186
+        },
+        "AVGO": {
+            "reportedEPS": 1.6,
+            "pe_ratio": 137.5527858734131,
+            "quarterly_return_six_month": 0.5269500597190915,
+            "quarterly_return_one_year": 0.7582238469266909,
+            "yoy_return": 0.43985035874815037
+        },
+        "MRVL": {
+            "reportedEPS": 0.6,
+            "pe_ratio": 187.7328618367513,
+            "quarterly_return_six_month": 0.9156823313936626,
+            "quarterly_return_one_year": 0.6511828485952653,
+            "yoy_return": 0.04713401238266424
+        },
+        "ADSK": {
+            "reportedEPS": 2.29,
+            "pe_ratio": 135.95633027855484,
+            "quarterly_return_six_month": 0.3731614856052139,
+            "quarterly_return_one_year": 0.2260196004914503,
+            "yoy_return": 0.12702205882352935
+        },
+        "QCOM": {
+            "reportedEPS": 2.85,
+            "pe_ratio": 53.57641387404057,
+            "quarterly_return_six_month": -0.0689668951491619,
+            "quarterly_return_one_year": -0.0823508631471757,
+            "yoy_return": 0.08771635957565604
+        },
+        "MU": {
+            "reportedEPS": 1.56,
+            "pe_ratio": 59.8848147270007,
+            "quarterly_return_six_month": 0.039092395724104,
+            "quarterly_return_one_year": -0.0371489852323455,
+            "yoy_return": 0.6158944658944658
+        },
+        "ASML": {
+            "reportedEPS": 6.0,
+            "pe_ratio": 110.09737141927084,
+            "quarterly_return_six_month": -0.1760497831167995,
+            "quarterly_return_one_year": -0.2865161660011245,
+            "yoy_return": 0.02556017199775029
+        }
+    },
+    "2025_q2": {
+        "NVDA": {
+            "reportedEPS": 0.96,
+            "pe_ratio": 113.45045566558838,
+            "quarterly_return_six_month": -0.1786868418160443,
+            "quarterly_return_one_year": 0.183588316531049,
+            "yoy_return": 1.1420340763599355
+        },
+        "AVGO": {
+            "reportedEPS": 1.58,
+            "pe_ratio": 121.53041211864615,
+            "quarterly_return_six_month": 0.132486468301725,
+            "quarterly_return_one_year": 0.4768038807062789,
+            "yoy_return": 0.43985035874815037
+        },
+        "MRVL": {
+            "reportedEPS": 0.62,
+            "pe_ratio": 94.06815805742818,
+            "quarterly_return_six_month": -0.2663025873167493,
+            "quarterly_return_one_year": -0.1567732268488604,
+            "yoy_return": 0.04713401238266424
+        },
+        "ADSK": {
+            "reportedEPS": 2.29,
+            "pe_ratio": 119.75982532751092,
+            "quarterly_return_six_month": -0.0384424722121198,
+            "quarterly_return_one_year": 0.2592986547831668,
+            "yoy_return": 0.12702205882352935
+        },
+        "MU": {
+            "reportedEPS": 1.91,
+            "pe_ratio": 49.40898955180383,
+            "quarterly_return_six_month": -0.0390068161473716,
+            "quarterly_return_one_year": -0.2506677367416768,
+            "yoy_return": 0.6158944658944658
+        },
+        "ASML": {
+            "reportedEPS": 5.9,
+            "pe_ratio": 135.82881604210803,
+            "quarterly_return_six_month": 0.1544168899368434,
+            "quarterly_return_one_year": -0.2522464124201622,
+            "yoy_return": 0.02556017199775029
+        }
+    },
+    "2011_q1": {
+        "MRVL": {
+            "reportedEPS": 0.4,
+            "pe_ratio": 40.53847789764404,
+            "quarterly_return_six_month": 0.2798932364142166,
+            "quarterly_return_one_year": 0.0656276629455279,
+            "yoy_return": 0.2864300757171294
+        },
+        "ADSK": {
+            "reportedEPS": 0.35,
+            "pe_ratio": 116.22857230050224,
+            "quarterly_return_six_month": 0.3109216635208036,
+            "quarterly_return_one_year": 0.7416121957280368,
+            "yoy_return": 0.13893913753865905
+        }
+    },
+    "2011_q2": {
+        "MRVL": {
+            "reportedEPS": 0.29,
+            "pe_ratio": 45.3850976352034,
+            "quarterly_return_six_month": -0.2091236212403624,
+            "quarterly_return_one_year": -0.2139579605604594,
+            "yoy_return": 0.2864300757171294
+        },
+        "ADSK": {
+            "reportedEPS": 0.4,
+            "pe_ratio": 112.44999885559082,
+            "quarterly_return_six_month": 0.2884560223099157,
+            "quarterly_return_one_year": 0.3527819411198885,
+            "yoy_return": 0.13893913753865905
+        }
+    },
+    "2011_q3": {
+        "MRVL": {
+            "reportedEPS": 0.38,
+            "pe_ratio": 33.26670998021176,
+            "quarterly_return_six_month": -0.2204102224375038,
+            "quarterly_return_one_year": -0.0288336860096217,
+            "yoy_return": 0.2864300757171294
+        },
+        "ADSK": {
+            "reportedEPS": 0.44,
+            "pe_ratio": 78.18182164972478,
+            "quarterly_return_six_month": -0.1543755833870502,
+            "quarterly_return_one_year": 0.1147116281760496,
+            "yoy_return": 0.13893913753865905
+        },
+        "QCOM": {
+            "reportedEPS": 0.8,
+            "pe_ratio": 42.32350826263428,
+            "quarterly_return_six_month": -0.0482341843861268,
+            "quarterly_return_one_year": 0.1600685746902932,
+            "yoy_return": 0.3608406878355017
+        },
+        "MU": {
+            "reportedEPS": -0.14,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": -0.4857389102800771,
+            "quarterly_return_one_year": -0.1185184788722727,
+            "yoy_return": 0.03607639707616128
+        }
+    },
+    "2011_q4": {
+        "MRVL": {
+            "reportedEPS": 0.4,
+            "pe_ratio": 29.83341932296753,
+            "quarterly_return_six_month": -0.0606666489768947,
+            "quarterly_return_one_year": -0.313352514257108,
+            "yoy_return": 0.2864300757171294
+        },
+        "ADSK": {
+            "reportedEPS": 0.44,
+            "pe_ratio": 78.63636016845703,
+            "quarterly_return_six_month": -0.18973313337948,
+            "quarterly_return_one_year": -0.000278971023735,
+            "yoy_return": 0.13893913753865905
+        },
+        "QCOM": {
+            "reportedEPS": 0.97,
+            "pe_ratio": 39.41515893051305,
+            "quarterly_return_six_month": -0.0512755537427166,
+            "quarterly_return_one_year": 0.0898855315458111,
+            "yoy_return": 0.3608406878355017
+        },
+        "MU": {
+            "reportedEPS": -0.19,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": -0.4006377254683121,
+            "quarterly_return_one_year": -0.2914572448242849,
+            "yoy_return": 0.03607639707616128
+        },
+        "ASML": {
+            "reportedEPS": 1.19,
+            "pe_ratio": 33.705831575794384,
+            "quarterly_return_six_month": 0.1070198813551563,
+            "quarterly_return_one_year": 0.117678648076994,
+            "yoy_return": 0.2535742505775367
+        }
+    },
+    "2012_q1": {
+        "MRVL": {
+            "reportedEPS": 0.21,
+            "pe_ratio": 63.121459597633,
+            "quarterly_return_six_month": 0.1045618213485477,
+            "quarterly_return_one_year": -0.2030374289411681,
+            "yoy_return": -0.06059232651687074
+        },
+        "ADSK": {
+            "reportedEPS": 0.46,
+            "pe_ratio": 78.26086956521739,
+            "quarterly_return_six_month": 0.0577319304985768,
+            "quarterly_return_one_year": -0.1780727631916373,
+            "yoy_return": 0.135157290706015
+        },
+        "QCOM": {
+            "reportedEPS": 1.01,
+            "pe_ratio": 47.26181785659035,
+            "quarterly_return_six_month": 0.4388047660983221,
+            "quarterly_return_one_year": 0.3147785129560898,
+            "yoy_return": 0.3608406878355017
+        },
+        "MU": {
+            "reportedEPS": -0.29,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": 0.5470378841772234,
+            "quarterly_return_one_year": -0.1949230976377567,
+            "yoy_return": 0.03607639707616128
+        },
+        "ASML": {
+            "reportedEPS": 1.16,
+            "pe_ratio": 41.48642441322064,
+            "quarterly_return_six_month": 0.4967164259851335,
+            "quarterly_return_one_year": 0.1285167179571231,
+            "yoy_return": 0.2535742505775367
+        }
+    },
+    "2012_q2": {
+        "MRVL": {
+            "reportedEPS": 0.23,
+            "pe_ratio": 55.66705206166143,
+            "quarterly_return_six_month": 0.1013316174718192,
+            "quarterly_return_one_year": 0.0219629506568923,
+            "yoy_return": -0.06059232651687074
+        },
+        "ADSK": {
+            "reportedEPS": 0.47,
+            "pe_ratio": 83.76595517422291,
+            "quarterly_return_six_month": 0.2020018077290826,
+            "quarterly_return_one_year": -0.0874971036232684,
+            "yoy_return": 0.135157290706015
+        },
+        "QCOM": {
+            "reportedEPS": 0.85,
+            "pe_ratio": 46.14065731272978,
+            "quarterly_return_six_month": 0.0152319847882584,
+            "quarterly_return_one_year": -0.0267873742114361,
+            "yoy_return": 0.3608406878355017
+        },
+        "MU": {
+            "reportedEPS": -0.32,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": 0.0327586468127383,
+            "quarterly_return_one_year": -0.3373894476796245,
+            "yoy_return": 0.03607639707616128
+        },
+        "ASML": {
+            "reportedEPS": 1.18,
+            "pe_ratio": 42.31546046370167,
+            "quarterly_return_six_month": 0.2322059342531122,
+            "quarterly_return_one_year": 0.3781118611797256,
+            "yoy_return": 0.2535742505775367
+        }
+    },
+    "2012_q3": {
+        "MRVL": {
+            "reportedEPS": 0.24,
+            "pe_ratio": 40.220677852630615,
+            "quarterly_return_six_month": -0.2856377728660993,
+            "quarterly_return_one_year": -0.1254273772893922,
+            "yoy_return": -0.06059232651687074
+        },
+        "ADSK": {
+            "reportedEPS": 0.48,
+            "pe_ratio": 70.6666628519694,
+            "quarterly_return_six_month": -0.0778378667058167,
+            "quarterly_return_one_year": 0.1034928475968588,
+            "yoy_return": 0.135157290706015
+        },
+        "QCOM": {
+            "reportedEPS": 0.89,
+            "pe_ratio": 49.644817395156686,
+            "quarterly_return_six_month": -0.0779037601879009,
+            "quarterly_return_one_year": 0.2499417253693643,
+            "yoy_return": 0.2783980744801766
+        },
+        "MU": {
+            "reportedEPS": -0.24,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": -0.2463416004971662,
+            "quarterly_return_one_year": 0.0899473213809061,
+            "yoy_return": -0.0630405097860719
+        },
+        "ASML": {
+            "reportedEPS": 1.05,
+            "pe_ratio": 49.644611903599326,
+            "quarterly_return_six_month": 0.0701530844991995,
+            "quarterly_return_one_year": 0.5548311676223985,
+            "yoy_return": 0.2535742505775367
+        }
+    },
+    "2012_q4": {
+        "MRVL": {
+            "reportedEPS": 0.2,
+            "pe_ratio": 34.019575119018555,
+            "quarterly_return_six_month": -0.4506235658072565,
+            "quarterly_return_one_year": -0.4548228969547528,
+            "yoy_return": -0.06059232651687074
+        },
+        "ADSK": {
+            "reportedEPS": 0.47,
+            "pe_ratio": 67.76595825844623,
+            "quarterly_return_six_month": -0.1698354857819213,
+            "quarterly_return_one_year": -0.0688760615878998,
+            "yoy_return": 0.135157290706015
+        },
+        "QCOM": {
+            "reportedEPS": 1.26,
+            "pe_ratio": 34.86148592025515,
+            "quarterly_return_six_month": 0.0865822072711652,
+            "quarterly_return_one_year": 0.0989173219243346,
+            "yoy_return": 0.2783980744801766
+        },
+        "MU": {
+            "reportedEPS": -0.27,
+            "pe_ratio": 0.0,
+            "quarterly_return_six_month": 0.0964750226850761,
+            "quarterly_return_one_year": 0.0314136344237248,
+            "yoy_return": -0.0630405097860719
+        },
+        "ASML": {
+            "reportedEPS": 0.52,
+            "pe_ratio": 109.47573735163762,
+            "quarterly_return_six_month": 0.0922919366075534,
+            "quarterly_return_one_year": 0.4121236162183543,
+            "yoy_return": -0.16271001683762354
+        }
+    }
+}
