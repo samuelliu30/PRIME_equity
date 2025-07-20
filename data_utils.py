@@ -14,8 +14,25 @@ def quarterly_return(ticker: str, start_date: datetime, days: int = 2) -> pd.Dat
     6month_return = (R(Q3) - R(Q1)) / R(Q1)
     where R(Q1) is the return of the first quarter and R(Q3) is the return of the third quarter.
     '''
+    cache_dir = "cache/quarterly_return"
+    os.makedirs(cache_dir, exist_ok=True)
+    cache_file = os.path.join(cache_dir, f"{ticker}_quarterly_return_{start_date.strftime('%Y%m%d')}_{days}_days_cache.csv")
+    
+    # Check if the cache file exists
+    if os.path.exists(cache_file):
+        try:
+            return pd.read_csv(cache_file, index_col=0, parse_dates=True)
+        except Exception as exc:
+            stock_utils.logger.warning("Failed to read cache for %s: %s", ticker, exc)
+    
     # call compound_return of days+1 because we need two days to get one return
     returns = stock_utils.compound_return(ticker, days + 1, start_date)
+    # Set the index of the DataFrame to the start_date
+    returns.index = [start_date]
+    
+    # Save the returns to a cache file
+    returns.to_csv(cache_file)
+    
     return returns
 
 def p_e_ratio(ticker: str) -> pd.DataFrame:
@@ -77,9 +94,7 @@ def get_yoy_return(ticker: str) -> pd.DataFrame:
     '''
     Calculate the year-over-year return of a stock.
     '''
-    revenue = stock_utils.get_stock_revenue(ticker)
-    print(revenue)
-    
+    revenue = stock_utils.get_stock_revenue(ticker)    
     # Ensure totalRevenue is numeric
     revenue['totalRevenue'] = pd.to_numeric(revenue['totalRevenue'], errors='coerce')
 
@@ -90,6 +105,14 @@ def get_yoy_return(ticker: str) -> pd.DataFrame:
     revenue_yoy = revenue.dropna(subset=['yoy_return'])
     
     return revenue_yoy[['date', 'yoy_return']]
+
+
+def get_stock_eps(ticker: str) -> pd.DataFrame:
+    '''
+    Get the earnings per share of a stock.
+    '''
+    eps = stock_utils.get_stock_eps(ticker)
+    return eps
 
 if __name__ == "__main__":
     #print(p_e_ratio("NVDA"))

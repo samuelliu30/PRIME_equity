@@ -61,7 +61,7 @@ def get_pe_ratio(ticker: str, *, forward: bool = False, raise_on_missing: bool =
 
     return pe_ratio
 
-def compound_return(ticker: str, days: int = 30, start_date: Optional[datetime] = None) -> pd.DataFrame:
+def compound_return(ticker: str, days: int = 30, start_date: datetime = datetime(2025, 4, 30)) -> pd.DataFrame:
     '''
     Calculate the compounded return of a stock over a specified number of days starting from a given date.
 
@@ -83,8 +83,8 @@ def compound_return(ticker: str, days: int = 30, start_date: Optional[datetime] 
         stock = yf.Ticker(ticker)
         
         if start_date:
-            end_date = start_date + timedelta(days=days)
-            hist = stock.history(start=start_date, end=end_date)
+            end_date = start_date - timedelta(days=days)
+            hist = stock.history(start=end_date, end=start_date)
         else:
             hist = stock.history(period=f"{days}d")
         
