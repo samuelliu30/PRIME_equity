@@ -8,14 +8,15 @@ import stock_utils
 from datetime import datetime, timedelta
 import os
 
-def quarterly_return(ticker: str, len_quarter: int = 2) -> pd.DataFrame:
+def quarterly_return(ticker: str, start_date: datetime, days: int = 2) -> pd.DataFrame:
     '''
     Calculate the quarterly return of a stock.
     6month_return = (R(Q3) - R(Q1)) / R(Q1)
     where R(Q1) is the return of the first quarter and R(Q3) is the return of the third quarter.
     '''
     # call compound_return of days+1 because we need two days to get one return
-    pass
+    returns = stock_utils.compound_return(ticker, days + 1, start_date)
+    return returns
 
 def p_e_ratio(ticker: str) -> pd.DataFrame:
     '''
@@ -91,5 +92,6 @@ def get_yoy_return(ticker: str) -> pd.DataFrame:
     return revenue_yoy[['date', 'yoy_return']]
 
 if __name__ == "__main__":
-    print(p_e_ratio("NVDA"))
-    print(get_yoy_return("NVDA"))
+    #print(p_e_ratio("NVDA"))
+    #print(get_yoy_return("NVDA"))
+    print(quarterly_return("NVDA", datetime(2024, 1, 1), 360))

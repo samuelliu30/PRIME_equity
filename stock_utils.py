@@ -12,6 +12,7 @@ import pandas as pd
 import requests
 from dotenv import load_dotenv
 import os
+from datetime import datetime, timedelta
 
 logger = logging.getLogger(__name__)
 
@@ -60,9 +61,9 @@ def get_pe_ratio(ticker: str, *, forward: bool = False, raise_on_missing: bool =
 
     return pe_ratio
 
-def compound_return(ticker: str, days: int = 30) -> pd.DataFrame:
+def compound_return(ticker: str, days: int = 30, start_date: Optional[datetime] = None) -> pd.DataFrame:
     '''
-    Calculate the compounded return of a stock over a specified number of days.
+    Calculate the compounded return of a stock over a specified number of days starting from a given date.
 
     Parameters
     ----------
@@ -70,6 +71,8 @@ def compound_return(ticker: str, days: int = 30) -> pd.DataFrame:
         The stock symbol, e.g. "AAPL".
     days : int, default 30
         The number of days over which to calculate the compounded return.
+    start_date : datetime, optional
+        The start date from which to calculate the compounded return. If not provided, defaults to the most recent date.
 
     Returns
     -------
@@ -78,10 +81,15 @@ def compound_return(ticker: str, days: int = 30) -> pd.DataFrame:
     '''
     try:
         stock = yf.Ticker(ticker)
-        hist = stock.history(period=f"{days}d")
+        
+        if start_date:
+            end_date = start_date + timedelta(days=days)
+            hist = stock.history(start=start_date, end=end_date)
+        else:
+            hist = stock.history(period=f"{days}d")
         
         if hist.empty:
-            raise ValueError(f"No historical data available for ticker '{ticker}' over the last {days} days.")
+            raise ValueError(f"No historical data available for ticker '{ticker}' over the specified period.")
         
         # Calculate daily returns
         hist['Daily Return'] = hist['Close'].pct_change()
