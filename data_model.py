@@ -3,7 +3,7 @@ import numpy as np
 import data_utils
 from datetime import datetime
 
-stock_list = ["NVDA", "AMD", "AVGO", "MRVL", "ADSK", "QCOM"]
+stock_list = ["NVDA", "AMD", "AVGO", "MRVL", "ADSK", "QCOM", "MU", "ASML"]
 
 def merge_indicator_data(ticker: str) -> pd.DataFrame:
     '''
@@ -66,9 +66,13 @@ def merge_indicator_data(ticker: str) -> pd.DataFrame:
     return merged_data
 
 def compose_stock_data() -> pd.DataFrame:
+    ticker_dataframes = {}
     for ticker in stock_list:
         merged_data = merge_indicator_data(ticker)
+        print(ticker)
         print(merged_data)
+        ticker_dataframes[ticker] = merged_data
+    return ticker_dataframes
 
 
 if __name__ == "__main__":

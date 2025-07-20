@@ -35,7 +35,7 @@ def quarterly_return(ticker: str, start_date: datetime, days: int = 2) -> pd.Dat
     
     return returns
 
-def p_e_ratio(ticker: str) -> pd.DataFrame:
+def p_e_ratio(ticker: str, set_negative_to_zero: bool = True) -> pd.DataFrame:
     '''
     Calculate the p/e ratio of a stock.
     '''
@@ -46,7 +46,10 @@ def p_e_ratio(ticker: str) -> pd.DataFrame:
     # Check if the cache file exists
     if os.path.exists(cache_file):
         try:
-            return pd.read_csv(cache_file)
+            df = pd.read_csv(cache_file)
+            if set_negative_to_zero:
+                df['pe_ratio'] = df['pe_ratio'].apply(lambda x: max(x, 0) if pd.notnull(x) else x)
+            return df
         except Exception as exc:
             stock_utils.logger.warning("Failed to read cache for %s: %s", ticker, exc)
     
@@ -87,7 +90,9 @@ def p_e_ratio(ticker: str) -> pd.DataFrame:
     
     # Save the DataFrame to a cache file
     df.to_csv(cache_file, index=False)
-    
+    if set_negative_to_zero:
+        df['pe_ratio'] = df['pe_ratio'].apply(lambda x: max(x, 0) if pd.notnull(x) else x)
+
     return df
 
 def get_yoy_return(ticker: str) -> pd.DataFrame:
